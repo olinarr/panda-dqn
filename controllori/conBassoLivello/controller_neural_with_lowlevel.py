@@ -166,7 +166,7 @@ def create_model():
 	model.compile(loss='mse', optimizer='adam', metrics=['mae'])
 
 	model.load_weights("model_with_lowlevel.h5")
-
+ or
 	return model
 
 
