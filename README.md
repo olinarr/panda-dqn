@@ -9,7 +9,8 @@
 
 * i file relativi al train (il vero e proprio training_std.py e l'env_1.py)
 * il controllore (con il modello in .h5) allo stato attuale delle cose
-* un file che contiene le statistiche su un test di 10k operazioni.
+* un file che contiene le statistiche su un test di 10k operazioni
+* un video dimostrativo
 
 ## Note
 
