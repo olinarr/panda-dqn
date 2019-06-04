@@ -225,6 +225,7 @@ def vectGetJointPos(joint_states):
 	# ritorna la posizione xyz
 	return res
 
+# source: http://geomalgorithms.com/a02-_lines.html
 def hasHitObstacle(pos_vect, obstacle, distance_check):
 	# cicla su tutte le righe tranne l'ultima, che verrai raggiunta comunque essendo che mi sposto avanti di 1
 	# in pratica ogni volta genero il segmento P0->P1, e con una formula trovata sul link
