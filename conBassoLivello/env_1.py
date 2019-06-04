@@ -339,7 +339,7 @@ class env_1:
 			out_file.write("Timeouts:\t %d (%3.2f%%)\n==========\n\n" % (self.timeout_failures, self.timeout_failures*100/tot_failures))
 			out_file.close()
 
-		# Ritorno la tupla: nuovo stato (braccio-target-ostacolo-raggio), ricompensa, fatto?, counter
+		# Ritorno la tupla: nuovo stato (braccio-target-ostacolo-raggio), ricompensa, fatto?, counter, e l'azione reale che abbiamo eseguito, per fare train.
 		return np.concatenate((self.normalizeState(), self.target, self.obstacle, self.obstacle_radius )), reward, done, self.counter, action
 
 	# Questa funzione normalizza la posizione del braccio tra -1 e 1 con delle formule
