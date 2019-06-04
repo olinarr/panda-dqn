@@ -1,0 +1,4812 @@
+==========
+print number 20000...
+Obstacle:	 28 (51.00%)
+Timeouts:	 26 (48.00%)
+==========
+
+==========
+print number 40000...
+Obstacle:	 59 (51.00%)
+Timeouts:	 55 (48.00%)
+==========
+
+==========
+print number 60000...
+Obstacle:	 91 (52.00%)
+Timeouts:	 82 (47.00%)
+==========
+
+==========
+print number 80000...
+Obstacle:	 122 (52.00%)
+Timeouts:	 111 (47.00%)
+==========
+
+==========
+print number 100000...
+Obstacle:	 151 (51.00%)
+Timeouts:	 141 (48.00%)
+==========
+
+==========
+print number 120000...
+Obstacle:	 179 (51.00%)
+Timeouts:	 171 (48.00%)
+==========
+
+==========
+print number 140000...
+Obstacle:	 205 (50.00%)
+Timeouts:	 202 (49.00%)
+==========
+
+==========
+print number 160000...
+Obstacle:	 225 (49.00%)
+Timeouts:	 233 (50.00%)
+==========
+
+==========
+print number 180000...
+Obstacle:	 244 (47.00%)
+Timeouts:	 268 (52.00%)
+==========
+
+==========
+print number 200000...
+Obstacle:	 272 (47.00%)
+Timeouts:	 298 (52.00%)
+==========
+
+==========
+print number 220000...
+Obstacle:	 306 (48.00%)
+Timeouts:	 328 (51.00%)
+==========
+
+==========
+print number 240000...
+Obstacle:	 342 (49.00%)
+Timeouts:	 355 (50.00%)
+==========
+
+==========
+print number 260000...
+Obstacle:	 373 (49.00%)
+Timeouts:	 384 (50.00%)
+==========
+
+==========
+print number 280000...
+Obstacle:	 400 (49.00%)
+Timeouts:	 416 (50.00%)
+==========
+
+==========
+print number 300000...
+Obstacle:	 421 (48.00%)
+Timeouts:	 448 (51.00%)
+==========
+
+==========
+print number 320000...
+Obstacle:	 433 (47.00%)
+Timeouts:	 483 (52.00%)
+==========
+
+==========
+print number 340000...
+Obstacle:	 446 (46.00%)
+Timeouts:	 515 (53.00%)
+==========
+
+==========
+print number 360000...
+Obstacle:	 463 (45.00%)
+Timeouts:	 547 (54.00%)
+==========
+
+==========
+print number 380000...
+Obstacle:	 482 (45.00%)
+Timeouts:	 578 (54.00%)
+==========
+
+==========
+print number 400000...
+Obstacle:	 511 (45.00%)
+Timeouts:	 608 (54.00%)
+==========
+
+==========
+print number 420000...
+Obstacle:	 528 (45.00%)
+Timeouts:	 643 (54.00%)
+==========
+
+==========
+print number 440000...
+Obstacle:	 545 (44.00%)
+Timeouts:	 675 (55.00%)
+==========
+
+==========
+print number 460000...
+Obstacle:	 564 (44.00%)
+Timeouts:	 706 (55.00%)
+==========
+
+==========
+print number 480000...
+Obstacle:	 586 (44.00%)
+Timeouts:	 738 (55.00%)
+==========
+
+==========
+print number 500000...
+Obstacle:	 612 (44.00%)
+Timeouts:	 772 (55.00%)
+==========
+
+==========
+print number 520000...
+Obstacle:	 636 (44.00%)
+Timeouts:	 804 (55.00%)
+==========
+
+==========
+print number 540000...
+Obstacle:	 656 (43.00%)
+Timeouts:	 836 (56.00%)
+==========
+
+==========
+print number 560000...
+Obstacle:	 675 (43.00%)
+Timeouts:	 868 (56.00%)
+==========
+
+==========
+print number 580000...
+Obstacle:	 695 (43.00%)
+Timeouts:	 899 (56.00%)
+==========
+
+==========
+print number 600000...
+Obstacle:	 716 (43.00%)
+Timeouts:	 928 (56.00%)
+==========
+
+==========
+print number 620000...
+Obstacle:	 728 (43.00%)
+Timeouts:	 964 (56.00%)
+==========
+
+==========
+print number 640000...
+Obstacle:	 742 (42.00%)
+Timeouts:	 999 (57.00%)
+==========
+
+==========
+print number 660000...
+Obstacle:	 760 (42.00%)
+Timeouts:	 1029 (57.00%)
+==========
+
+==========
+print number 680000...
+Obstacle:	 779 (42.00%)
+Timeouts:	 1063 (57.00%)
+==========
+
+==========
+print number 700000...
+Obstacle:	 796 (42.00%)
+Timeouts:	 1098 (57.00%)
+==========
+
+==========
+print number 720000...
+Obstacle:	 814 (41.00%)
+Timeouts:	 1131 (58.00%)
+==========
+
+==========
+print number 740000...
+Obstacle:	 840 (41.00%)
+Timeouts:	 1161 (58.00%)
+==========
+
+==========
+print number 760000...
+Obstacle:	 858 (41.00%)
+Timeouts:	 1196 (58.00%)
+==========
+
+==========
+print number 780000...
+Obstacle:	 878 (41.00%)
+Timeouts:	 1227 (58.00%)
+==========
+
+==========
+print number 800000...
+Obstacle:	 892 (41.00%)
+Timeouts:	 1262 (58.00%)
+==========
+
+==========
+print number 820000...
+Obstacle:	 919 (41.00%)
+Timeouts:	 1295 (58.00%)
+==========
+
+==========
+print number 840000...
+Obstacle:	 942 (41.00%)
+Timeouts:	 1328 (58.00%)
+==========
+
+==========
+print number 860000...
+Obstacle:	 957 (41.00%)
+Timeouts:	 1362 (58.00%)
+==========
+
+==========
+print number 880000...
+Obstacle:	 976 (41.00%)
+Timeouts:	 1396 (58.00%)
+==========
+
+==========
+print number 900000...
+Obstacle:	 990 (40.00%)
+Timeouts:	 1434 (59.00%)
+==========
+
+==========
+print number 920000...
+Obstacle:	 1024 (41.00%)
+Timeouts:	 1460 (58.00%)
+==========
+
+==========
+print number 940000...
+Obstacle:	 1035 (40.00%)
+Timeouts:	 1495 (59.00%)
+==========
+
+==========
+print number 960000...
+Obstacle:	 1049 (40.00%)
+Timeouts:	 1529 (59.00%)
+==========
+
+==========
+print number 980000...
+Obstacle:	 1068 (40.00%)
+Timeouts:	 1557 (59.00%)
+==========
+
+==========
+print number 1000000...
+Obstacle:	 1079 (40.00%)
+Timeouts:	 1588 (59.00%)
+==========
+
+==========
+print number 1020000...
+Obstacle:	 1095 (40.00%)
+Timeouts:	 1623 (59.00%)
+==========
+
+==========
+print number 1040000...
+Obstacle:	 1110 (40.00%)
+Timeouts:	 1656 (59.00%)
+==========
+
+==========
+print number 1060000...
+Obstacle:	 1138 (40.00%)
+Timeouts:	 1690 (59.00%)
+==========
+
+==========
+print number 1080000...
+Obstacle:	 1158 (40.00%)
+Timeouts:	 1722 (59.00%)
+==========
+
+==========
+print number 1100000...
+Obstacle:	 1177 (40.00%)
+Timeouts:	 1753 (59.00%)
+==========
+
+==========
+print number 1120000...
+Obstacle:	 1185 (39.00%)
+Timeouts:	 1788 (60.00%)
+==========
+
+==========
+print number 1140000...
+Obstacle:	 1199 (39.00%)
+Timeouts:	 1822 (60.00%)
+==========
+
+==========
+print number 1160000...
+Obstacle:	 1213 (39.00%)
+Timeouts:	 1855 (60.00%)
+==========
+
+==========
+print number 1180000...
+Obstacle:	 1231 (39.00%)
+Timeouts:	 1888 (60.00%)
+==========
+
+==========
+print number 1200000...
+Obstacle:	 1247 (39.00%)
+Timeouts:	 1924 (60.00%)
+==========
+
+==========
+print number 1220000...
+Obstacle:	 1259 (39.00%)
+Timeouts:	 1957 (60.00%)
+==========
+
+==========
+print number 1240000...
+Obstacle:	 1276 (39.00%)
+Timeouts:	 1991 (60.00%)
+==========
+
+==========
+print number 1260000...
+Obstacle:	 1288 (38.00%)
+Timeouts:	 2028 (61.00%)
+==========
+
+==========
+print number 1280000...
+Obstacle:	 1300 (38.00%)
+Timeouts:	 2064 (61.00%)
+==========
+
+==========
+print number 1300000...
+Obstacle:	 1307 (38.00%)
+Timeouts:	 2099 (61.00%)
+==========
+
+==========
+print number 1320000...
+Obstacle:	 1325 (38.00%)
+Timeouts:	 2134 (61.00%)
+==========
+
+==========
+print number 1340000...
+Obstacle:	 1336 (38.00%)
+Timeouts:	 2169 (61.00%)
+==========
+
+==========
+print number 1360000...
+Obstacle:	 1347 (37.00%)
+Timeouts:	 2206 (62.00%)
+==========
+
+==========
+print number 1380000...
+Obstacle:	 1351 (37.00%)
+Timeouts:	 2244 (62.00%)
+==========
+
+==========
+print number 1400000...
+Obstacle:	 1367 (37.00%)
+Timeouts:	 2277 (62.00%)
+==========
+
+==========
+print number 1420000...
+Obstacle:	 1383 (37.00%)
+Timeouts:	 2312 (62.00%)
+==========
+
+==========
+print number 1440000...
+Obstacle:	 1403 (37.00%)
+Timeouts:	 2344 (62.00%)
+==========
+
+==========
+print number 1460000...
+Obstacle:	 1414 (37.00%)
+Timeouts:	 2380 (62.00%)
+==========
+
+==========
+print number 1480000...
+Obstacle:	 1425 (37.00%)
+Timeouts:	 2416 (62.00%)
+==========
+
+==========
+print number 1500000...
+Obstacle:	 1443 (37.00%)
+Timeouts:	 2449 (62.00%)
+==========
+
+==========
+print number 1520000...
+Obstacle:	 1453 (36.00%)
+Timeouts:	 2485 (63.00%)
+==========
+
+==========
+print number 1540000...
+Obstacle:	 1467 (36.00%)
+Timeouts:	 2518 (63.00%)
+==========
+
+==========
+print number 1560000...
+Obstacle:	 1479 (36.00%)
+Timeouts:	 2555 (63.00%)
+==========
+
+==========
+print number 1580000...
+Obstacle:	 1501 (36.00%)
+Timeouts:	 2588 (63.00%)
+==========
+
+==========
+print number 1600000...
+Obstacle:	 1518 (36.00%)
+Timeouts:	 2622 (63.00%)
+==========
+
+==========
+print number 1620000...
+Obstacle:	 1534 (36.00%)
+Timeouts:	 2654 (63.00%)
+==========
+
+==========
+print number 1640000...
+Obstacle:	 1551 (36.00%)
+Timeouts:	 2689 (63.00%)
+==========
+
+==========
+print number 1660000...
+Obstacle:	 1575 (36.00%)
+Timeouts:	 2722 (63.00%)
+==========
+
+==========
+print number 1680000...
+Obstacle:	 1589 (36.00%)
+Timeouts:	 2760 (63.00%)
+==========
+
+==========
+print number 1700000...
+Obstacle:	 1593 (36.00%)
+Timeouts:	 2799 (63.00%)
+==========
+
+==========
+print number 1720000...
+Obstacle:	 1601 (36.00%)
+Timeouts:	 2835 (63.00%)
+==========
+
+==========
+print number 1740000...
+Obstacle:	 1621 (36.00%)
+Timeouts:	 2870 (63.00%)
+==========
+
+==========
+print number 1760000...
+Obstacle:	 1637 (36.00%)
+Timeouts:	 2905 (63.00%)
+==========
+
+==========
+print number 1780000...
+Obstacle:	 1650 (35.00%)
+Timeouts:	 2939 (64.00%)
+==========
+
+==========
+print number 1800000...
+Obstacle:	 1657 (35.00%)
+Timeouts:	 2977 (64.00%)
+==========
+
+==========
+print number 1820000...
+Obstacle:	 1672 (35.00%)
+Timeouts:	 3014 (64.00%)
+==========
+
+==========
+print number 1840000...
+Obstacle:	 1684 (35.00%)
+Timeouts:	 3049 (64.00%)
+==========
+
+==========
+print number 1860000...
+Obstacle:	 1706 (35.00%)
+Timeouts:	 3084 (64.00%)
+==========
+
+==========
+print number 1880000...
+Obstacle:	 1724 (35.00%)
+Timeouts:	 3117 (64.00%)
+==========
+
+==========
+print number 1900000...
+Obstacle:	 1748 (35.00%)
+Timeouts:	 3149 (64.00%)
+==========
+
+==========
+print number 1920000...
+Obstacle:	 1761 (35.00%)
+Timeouts:	 3184 (64.00%)
+==========
+
+==========
+print number 1940000...
+Obstacle:	 1775 (35.00%)
+Timeouts:	 3217 (64.00%)
+==========
+
+==========
+print number 1960000...
+Obstacle:	 1791 (35.00%)
+Timeouts:	 3246 (64.00%)
+==========
+
+==========
+print number 1980000...
+Obstacle:	 1801 (35.00%)
+Timeouts:	 3282 (64.00%)
+==========
+
+==========
+print number 2000000...
+Obstacle:	 1820 (35.00%)
+Timeouts:	 3315 (64.00%)
+==========
+
+==========
+print number 2020000...
+Obstacle:	 1825 (35.00%)
+Timeouts:	 3353 (64.00%)
+==========
+
+==========
+print number 2040000...
+Obstacle:	 1835 (35.00%)
+Timeouts:	 3391 (64.00%)
+==========
+
+==========
+print number 2060000...
+Obstacle:	 1853 (35.00%)
+Timeouts:	 3427 (64.00%)
+==========
+
+==========
+print number 2080000...
+Obstacle:	 1875 (35.00%)
+Timeouts:	 3460 (64.00%)
+==========
+
+==========
+print number 2100000...
+Obstacle:	 1895 (35.00%)
+Timeouts:	 3492 (64.00%)
+==========
+
+==========
+print number 2120000...
+Obstacle:	 1913 (35.00%)
+Timeouts:	 3526 (64.00%)
+==========
+
+==========
+print number 2140000...
+Obstacle:	 1937 (35.00%)
+Timeouts:	 3561 (64.00%)
+==========
+
+==========
+print number 2160000...
+Obstacle:	 1950 (35.00%)
+Timeouts:	 3596 (64.00%)
+==========
+
+==========
+print number 2180000...
+Obstacle:	 1970 (35.00%)
+Timeouts:	 3630 (64.00%)
+==========
+
+==========
+print number 2200000...
+Obstacle:	 1987 (35.00%)
+Timeouts:	 3664 (64.00%)
+==========
+
+==========
+print number 2220000...
+Obstacle:	 2005 (35.00%)
+Timeouts:	 3700 (64.00%)
+==========
+
+==========
+print number 2240000...
+Obstacle:	 2019 (35.00%)
+Timeouts:	 3737 (64.00%)
+==========
+
+==========
+print number 2260000...
+Obstacle:	 2037 (35.00%)
+Timeouts:	 3770 (64.00%)
+==========
+
+==========
+print number 2280000...
+Obstacle:	 2054 (35.00%)
+Timeouts:	 3802 (64.00%)
+==========
+
+==========
+print number 2300000...
+Obstacle:	 2066 (34.00%)
+Timeouts:	 3839 (65.00%)
+==========
+
+==========
+print number 2320000...
+Obstacle:	 2078 (34.00%)
+Timeouts:	 3874 (65.00%)
+==========
+
+==========
+print number 2340000...
+Obstacle:	 2095 (34.00%)
+Timeouts:	 3908 (65.00%)
+==========
+
+==========
+print number 2360000...
+Obstacle:	 2113 (34.00%)
+Timeouts:	 3944 (65.00%)
+==========
+
+==========
+print number 2380000...
+Obstacle:	 2140 (34.00%)
+Timeouts:	 3976 (65.00%)
+==========
+
+==========
+print number 2400000...
+Obstacle:	 2151 (34.00%)
+Timeouts:	 4012 (65.00%)
+==========
+
+==========
+print number 2420000...
+Obstacle:	 2164 (34.00%)
+Timeouts:	 4046 (65.00%)
+==========
+
+==========
+print number 2440000...
+Obstacle:	 2182 (34.00%)
+Timeouts:	 4082 (65.00%)
+==========
+
+==========
+print number 2460000...
+Obstacle:	 2199 (34.00%)
+Timeouts:	 4117 (65.00%)
+==========
+
+==========
+print number 2480000...
+Obstacle:	 2222 (34.00%)
+Timeouts:	 4150 (65.00%)
+==========
+
+==========
+print number 2500000...
+Obstacle:	 2239 (34.00%)
+Timeouts:	 4187 (65.00%)
+==========
+
+==========
+print number 2520000...
+Obstacle:	 2259 (34.00%)
+Timeouts:	 4222 (65.00%)
+==========
+
+==========
+print number 2540000...
+Obstacle:	 2270 (34.00%)
+Timeouts:	 4259 (65.00%)
+==========
+
+==========
+print number 2560000...
+Obstacle:	 2285 (34.00%)
+Timeouts:	 4296 (65.00%)
+==========
+
+==========
+print number 2580000...
+Obstacle:	 2303 (34.00%)
+Timeouts:	 4329 (65.00%)
+==========
+
+==========
+print number 2600000...
+Obstacle:	 2322 (34.00%)
+Timeouts:	 4366 (65.00%)
+==========
+
+==========
+print number 2620000...
+Obstacle:	 2346 (34.00%)
+Timeouts:	 4401 (65.00%)
+==========
+
+==========
+print number 2640000...
+Obstacle:	 2363 (34.00%)
+Timeouts:	 4436 (65.00%)
+==========
+
+==========
+print number 2660000...
+Obstacle:	 2380 (34.00%)
+Timeouts:	 4470 (65.00%)
+==========
+
+==========
+print number 2680000...
+Obstacle:	 2396 (34.00%)
+Timeouts:	 4504 (65.00%)
+==========
+
+==========
+print number 2700000...
+Obstacle:	 2419 (34.00%)
+Timeouts:	 4536 (65.00%)
+==========
+
+==========
+print number 2720000...
+Obstacle:	 2436 (34.00%)
+Timeouts:	 4573 (65.00%)
+==========
+
+==========
+print number 2740000...
+Obstacle:	 2449 (34.00%)
+Timeouts:	 4608 (65.00%)
+==========
+
+==========
+print number 2760000...
+Obstacle:	 2466 (34.00%)
+Timeouts:	 4643 (65.00%)
+==========
+
+==========
+print number 2780000...
+Obstacle:	 2475 (34.00%)
+Timeouts:	 4680 (65.00%)
+==========
+
+==========
+print number 2800000...
+Obstacle:	 2508 (34.00%)
+Timeouts:	 4713 (65.00%)
+==========
+
+==========
+print number 2820000...
+Obstacle:	 2527 (34.00%)
+Timeouts:	 4750 (65.00%)
+==========
+
+==========
+print number 2840000...
+Obstacle:	 2545 (34.00%)
+Timeouts:	 4783 (65.00%)
+==========
+
+==========
+print number 2860000...
+Obstacle:	 2562 (34.00%)
+Timeouts:	 4818 (65.00%)
+==========
+
+==========
+print number 2880000...
+Obstacle:	 2588 (34.00%)
+Timeouts:	 4853 (65.00%)
+==========
+
+==========
+print number 2900000...
+Obstacle:	 2620 (34.00%)
+Timeouts:	 4888 (65.00%)
+==========
+
+==========
+print number 2920000...
+Obstacle:	 2650 (35.00%)
+Timeouts:	 4920 (64.00%)
+==========
+
+==========
+print number 2940000...
+Obstacle:	 2682 (35.00%)
+Timeouts:	 4954 (64.00%)
+==========
+
+==========
+print number 2960000...
+Obstacle:	 2709 (35.00%)
+Timeouts:	 4989 (64.00%)
+==========
+
+==========
+print number 2980000...
+Obstacle:	 2748 (35.00%)
+Timeouts:	 5024 (64.00%)
+==========
+
+==========
+print number 3000000...
+Obstacle:	 2777 (35.00%)
+Timeouts:	 5061 (64.00%)
+==========
+
+==========
+print number 3020000...
+Obstacle:	 2799 (35.00%)
+Timeouts:	 5099 (64.00%)
+==========
+
+==========
+print number 3040000...
+Obstacle:	 2828 (35.00%)
+Timeouts:	 5134 (64.00%)
+==========
+
+==========
+print number 3060000...
+Obstacle:	 2850 (35.00%)
+Timeouts:	 5170 (64.00%)
+==========
+
+==========
+print number 3080000...
+Obstacle:	 2866 (35.00%)
+Timeouts:	 5208 (64.00%)
+==========
+
+==========
+print number 3100000...
+Obstacle:	 2888 (35.00%)
+Timeouts:	 5243 (64.00%)
+==========
+
+==========
+print number 3120000...
+Obstacle:	 2930 (35.00%)
+Timeouts:	 5273 (64.00%)
+==========
+
+==========
+print number 3140000...
+Obstacle:	 2970 (35.00%)
+Timeouts:	 5306 (64.00%)
+==========
+
+==========
+print number 3160000...
+Obstacle:	 2995 (35.00%)
+Timeouts:	 5340 (64.00%)
+==========
+
+==========
+print number 3180000...
+Obstacle:	 3011 (35.00%)
+Timeouts:	 5379 (64.00%)
+==========
+
+==========
+print number 3200000...
+Obstacle:	 3032 (35.00%)
+Timeouts:	 5415 (64.00%)
+==========
+
+==========
+print number 3220000...
+Obstacle:	 3062 (35.00%)
+Timeouts:	 5451 (64.00%)
+==========
+
+==========
+print number 3240000...
+Obstacle:	 3083 (35.00%)
+Timeouts:	 5489 (64.00%)
+==========
+
+==========
+print number 3260000...
+Obstacle:	 3103 (35.00%)
+Timeouts:	 5524 (64.00%)
+==========
+
+==========
+print number 3280000...
+Obstacle:	 3139 (36.00%)
+Timeouts:	 5561 (63.00%)
+==========
+
+==========
+print number 3300000...
+Obstacle:	 3168 (36.00%)
+Timeouts:	 5596 (63.00%)
+==========
+
+==========
+print number 3320000...
+Obstacle:	 3193 (36.00%)
+Timeouts:	 5632 (63.00%)
+==========
+
+==========
+print number 3340000...
+Obstacle:	 3210 (36.00%)
+Timeouts:	 5669 (63.00%)
+==========
+
+==========
+print number 3360000...
+Obstacle:	 3223 (36.00%)
+Timeouts:	 5707 (63.00%)
+==========
+
+==========
+print number 3380000...
+Obstacle:	 3249 (36.00%)
+Timeouts:	 5741 (63.00%)
+==========
+
+==========
+print number 3400000...
+Obstacle:	 3273 (36.00%)
+Timeouts:	 5775 (63.00%)
+==========
+
+==========
+print number 3420000...
+Obstacle:	 3322 (36.00%)
+Timeouts:	 5808 (63.00%)
+==========
+
+==========
+print number 3440000...
+Obstacle:	 3363 (36.00%)
+Timeouts:	 5844 (63.00%)
+==========
+
+==========
+print number 3460000...
+Obstacle:	 3394 (36.00%)
+Timeouts:	 5880 (63.00%)
+==========
+
+==========
+print number 3480000...
+Obstacle:	 3428 (36.00%)
+Timeouts:	 5913 (63.00%)
+==========
+
+==========
+print number 3500000...
+Obstacle:	 3466 (36.00%)
+Timeouts:	 5950 (63.00%)
+==========
+
+==========
+print number 3520000...
+Obstacle:	 3499 (36.00%)
+Timeouts:	 5984 (63.00%)
+==========
+
+==========
+print number 3540000...
+Obstacle:	 3525 (36.00%)
+Timeouts:	 6019 (63.00%)
+==========
+
+==========
+print number 3560000...
+Obstacle:	 3559 (37.00%)
+Timeouts:	 6053 (62.00%)
+==========
+
+==========
+print number 3580000...
+Obstacle:	 3599 (37.00%)
+Timeouts:	 6089 (62.00%)
+==========
+
+==========
+print number 3600000...
+Obstacle:	 3621 (37.00%)
+Timeouts:	 6126 (62.00%)
+==========
+
+==========
+print number 3620000...
+Obstacle:	 3669 (37.00%)
+Timeouts:	 6159 (62.00%)
+==========
+
+==========
+print number 3640000...
+Obstacle:	 3701 (37.00%)
+Timeouts:	 6188 (62.00%)
+==========
+
+==========
+print number 3660000...
+Obstacle:	 3743 (37.00%)
+Timeouts:	 6224 (62.00%)
+==========
+
+==========
+print number 3680000...
+Obstacle:	 3775 (37.00%)
+Timeouts:	 6258 (62.00%)
+==========
+
+==========
+print number 3700000...
+Obstacle:	 3830 (37.00%)
+Timeouts:	 6292 (62.00%)
+==========
+
+==========
+print number 3720000...
+Obstacle:	 3846 (37.00%)
+Timeouts:	 6329 (62.00%)
+==========
+
+==========
+print number 3740000...
+Obstacle:	 3886 (37.00%)
+Timeouts:	 6362 (62.00%)
+==========
+
+==========
+print number 3760000...
+Obstacle:	 3918 (37.00%)
+Timeouts:	 6396 (62.00%)
+==========
+
+==========
+print number 3780000...
+Obstacle:	 3962 (38.00%)
+Timeouts:	 6428 (61.00%)
+==========
+
+==========
+print number 3800000...
+Obstacle:	 4002 (38.00%)
+Timeouts:	 6463 (61.00%)
+==========
+
+==========
+print number 3820000...
+Obstacle:	 4062 (38.00%)
+Timeouts:	 6498 (61.00%)
+==========
+
+==========
+print number 3840000...
+Obstacle:	 4109 (38.00%)
+Timeouts:	 6533 (61.00%)
+==========
+
+==========
+print number 3860000...
+Obstacle:	 4166 (38.00%)
+Timeouts:	 6568 (61.00%)
+==========
+
+==========
+print number 3880000...
+Obstacle:	 4219 (38.00%)
+Timeouts:	 6601 (61.00%)
+==========
+
+==========
+print number 3900000...
+Obstacle:	 4271 (39.00%)
+Timeouts:	 6636 (60.00%)
+==========
+
+==========
+print number 3920000...
+Obstacle:	 4295 (39.00%)
+Timeouts:	 6672 (60.00%)
+==========
+
+==========
+print number 3940000...
+Obstacle:	 4352 (39.00%)
+Timeouts:	 6706 (60.00%)
+==========
+
+==========
+print number 3960000...
+Obstacle:	 4393 (39.00%)
+Timeouts:	 6741 (60.00%)
+==========
+
+==========
+print number 3980000...
+Obstacle:	 4441 (39.00%)
+Timeouts:	 6773 (60.00%)
+==========
+
+==========
+print number 4000000...
+Obstacle:	 4489 (39.00%)
+Timeouts:	 6806 (60.00%)
+==========
+
+==========
+print number 4020000...
+Obstacle:	 4534 (39.00%)
+Timeouts:	 6837 (60.00%)
+==========
+
+==========
+print number 4040000...
+Obstacle:	 4565 (39.00%)
+Timeouts:	 6871 (60.00%)
+==========
+
+==========
+print number 4060000...
+Obstacle:	 4602 (39.00%)
+Timeouts:	 6908 (60.00%)
+==========
+
+==========
+print number 4080000...
+Obstacle:	 4650 (40.00%)
+Timeouts:	 6939 (59.00%)
+==========
+
+==========
+print number 4100000...
+Obstacle:	 4711 (40.00%)
+Timeouts:	 6969 (59.00%)
+==========
+
+==========
+print number 4120000...
+Obstacle:	 4756 (40.00%)
+Timeouts:	 7003 (59.00%)
+==========
+
+==========
+print number 4140000...
+Obstacle:	 4808 (40.00%)
+Timeouts:	 7039 (59.00%)
+==========
+
+==========
+print number 4160000...
+Obstacle:	 4843 (40.00%)
+Timeouts:	 7073 (59.00%)
+==========
+
+==========
+print number 4180000...
+Obstacle:	 4894 (40.00%)
+Timeouts:	 7110 (59.00%)
+==========
+
+==========
+print number 4200000...
+Obstacle:	 4975 (41.00%)
+Timeouts:	 7142 (58.00%)
+==========
+
+==========
+print number 4220000...
+Obstacle:	 5033 (41.00%)
+Timeouts:	 7172 (58.00%)
+==========
+
+==========
+print number 4240000...
+Obstacle:	 5072 (41.00%)
+Timeouts:	 7207 (58.00%)
+==========
+
+==========
+print number 4260000...
+Obstacle:	 5142 (41.00%)
+Timeouts:	 7238 (58.00%)
+==========
+
+==========
+print number 4280000...
+Obstacle:	 5190 (41.00%)
+Timeouts:	 7270 (58.00%)
+==========
+
+==========
+print number 4300000...
+Obstacle:	 5243 (41.00%)
+Timeouts:	 7304 (58.00%)
+==========
+
+==========
+print number 4320000...
+Obstacle:	 5312 (41.00%)
+Timeouts:	 7336 (58.00%)
+==========
+
+==========
+print number 4340000...
+Obstacle:	 5401 (42.00%)
+Timeouts:	 7368 (57.00%)
+==========
+
+==========
+print number 4360000...
+Obstacle:	 5446 (42.00%)
+Timeouts:	 7405 (57.00%)
+==========
+
+==========
+print number 4380000...
+Obstacle:	 5507 (42.00%)
+Timeouts:	 7437 (57.00%)
+==========
+
+==========
+print number 4400000...
+Obstacle:	 5569 (42.00%)
+Timeouts:	 7470 (57.00%)
+==========
+
+==========
+print number 4420000...
+Obstacle:	 5639 (42.00%)
+Timeouts:	 7502 (57.00%)
+==========
+
+==========
+print number 4440000...
+Obstacle:	 5714 (43.00%)
+Timeouts:	 7535 (56.00%)
+==========
+
+==========
+print number 4460000...
+Obstacle:	 5768 (43.00%)
+Timeouts:	 7568 (56.00%)
+==========
+
+==========
+print number 4480000...
+Obstacle:	 5870 (43.00%)
+Timeouts:	 7598 (56.00%)
+==========
+
+==========
+print number 4500000...
+Obstacle:	 5974 (43.00%)
+Timeouts:	 7629 (56.00%)
+==========
+
+==========
+print number 4520000...
+Obstacle:	 6028 (44.00%)
+Timeouts:	 7662 (55.00%)
+==========
+
+==========
+print number 4540000...
+Obstacle:	 6088 (44.00%)
+Timeouts:	 7698 (55.00%)
+==========
+
+==========
+print number 4560000...
+Obstacle:	 6146 (44.00%)
+Timeouts:	 7730 (55.00%)
+==========
+
+==========
+print number 4580000...
+Obstacle:	 6231 (44.00%)
+Timeouts:	 7759 (55.00%)
+==========
+
+==========
+print number 4600000...
+Obstacle:	 6288 (44.00%)
+Timeouts:	 7790 (55.00%)
+==========
+
+==========
+print number 4620000...
+Obstacle:	 6348 (44.00%)
+Timeouts:	 7825 (55.00%)
+==========
+
+==========
+print number 4640000...
+Obstacle:	 6433 (45.00%)
+Timeouts:	 7850 (54.00%)
+==========
+
+==========
+print number 4660000...
+Obstacle:	 6486 (45.00%)
+Timeouts:	 7885 (54.00%)
+==========
+
+==========
+print number 4680000...
+Obstacle:	 6551 (45.00%)
+Timeouts:	 7915 (54.00%)
+==========
+
+==========
+print number 4700000...
+Obstacle:	 6663 (45.00%)
+Timeouts:	 7945 (54.00%)
+==========
+
+==========
+print number 4720000...
+Obstacle:	 6717 (45.00%)
+Timeouts:	 7979 (54.00%)
+==========
+
+==========
+print number 4740000...
+Obstacle:	 6791 (45.00%)
+Timeouts:	 8010 (54.00%)
+==========
+
+==========
+print number 4760000...
+Obstacle:	 6855 (46.00%)
+Timeouts:	 8046 (53.00%)
+==========
+
+==========
+print number 4780000...
+Obstacle:	 6945 (46.00%)
+Timeouts:	 8075 (53.00%)
+==========
+
+==========
+print number 4800000...
+Obstacle:	 6992 (46.00%)
+Timeouts:	 8104 (53.00%)
+==========
+
+==========
+print number 4820000...
+Obstacle:	 7056 (46.00%)
+Timeouts:	 8136 (53.00%)
+==========
+
+==========
+print number 4840000...
+Obstacle:	 7125 (46.00%)
+Timeouts:	 8169 (53.00%)
+==========
+
+==========
+print number 4860000...
+Obstacle:	 7220 (46.00%)
+Timeouts:	 8196 (53.00%)
+==========
+
+==========
+print number 4880000...
+Obstacle:	 7295 (47.00%)
+Timeouts:	 8226 (52.00%)
+==========
+
+==========
+print number 4900000...
+Obstacle:	 7363 (47.00%)
+Timeouts:	 8257 (52.00%)
+==========
+
+==========
+print number 4920000...
+Obstacle:	 7447 (47.00%)
+Timeouts:	 8289 (52.00%)
+==========
+
+==========
+print number 4940000...
+Obstacle:	 7543 (47.00%)
+Timeouts:	 8316 (52.00%)
+==========
+
+==========
+print number 4960000...
+Obstacle:	 7628 (47.00%)
+Timeouts:	 8348 (52.00%)
+==========
+
+==========
+print number 4980000...
+Obstacle:	 7695 (47.00%)
+Timeouts:	 8380 (52.00%)
+==========
+
+==========
+print number 5000000...
+Obstacle:	 7766 (48.00%)
+Timeouts:	 8413 (51.00%)
+==========
+
+==========
+print number 5020000...
+Obstacle:	 7831 (48.00%)
+Timeouts:	 8444 (51.00%)
+==========
+
+==========
+print number 5040000...
+Obstacle:	 7932 (48.00%)
+Timeouts:	 8476 (51.00%)
+==========
+
+==========
+print number 5060000...
+Obstacle:	 8046 (48.00%)
+Timeouts:	 8504 (51.00%)
+==========
+
+==========
+print number 5080000...
+Obstacle:	 8135 (48.00%)
+Timeouts:	 8535 (51.00%)
+==========
+
+==========
+print number 5100000...
+Obstacle:	 8238 (49.00%)
+Timeouts:	 8563 (50.00%)
+==========
+
+==========
+print number 5120000...
+Obstacle:	 8334 (49.00%)
+Timeouts:	 8592 (50.00%)
+==========
+
+==========
+print number 5140000...
+Obstacle:	 8426 (49.00%)
+Timeouts:	 8620 (50.00%)
+==========
+
+==========
+print number 5160000...
+Obstacle:	 8523 (49.00%)
+Timeouts:	 8648 (50.00%)
+==========
+
+==========
+print number 5180000...
+Obstacle:	 8625 (49.00%)
+Timeouts:	 8677 (50.00%)
+==========
+
+==========
+print number 5200000...
+Obstacle:	 8712 (50.00%)
+Timeouts:	 8705 (49.00%)
+==========
+
+==========
+print number 5220000...
+Obstacle:	 8822 (50.00%)
+Timeouts:	 8731 (49.00%)
+==========
+
+==========
+print number 5240000...
+Obstacle:	 8927 (50.00%)
+Timeouts:	 8760 (49.00%)
+==========
+
+==========
+print number 5260000...
+Obstacle:	 9056 (50.00%)
+Timeouts:	 8787 (49.00%)
+==========
+
+==========
+print number 5280000...
+Obstacle:	 9170 (50.00%)
+Timeouts:	 8814 (49.00%)
+==========
+
+==========
+print number 5300000...
+Obstacle:	 9332 (51.00%)
+Timeouts:	 8841 (48.00%)
+==========
+
+==========
+print number 5320000...
+Obstacle:	 9427 (51.00%)
+Timeouts:	 8870 (48.00%)
+==========
+
+==========
+print number 5340000...
+Obstacle:	 9577 (51.00%)
+Timeouts:	 8901 (48.00%)
+==========
+
+==========
+print number 5360000...
+Obstacle:	 9677 (52.00%)
+Timeouts:	 8932 (47.00%)
+==========
+
+==========
+print number 5380000...
+Obstacle:	 9819 (52.00%)
+Timeouts:	 8958 (47.00%)
+==========
+
+==========
+print number 5400000...
+Obstacle:	 9914 (52.00%)
+Timeouts:	 8985 (47.00%)
+==========
+
+==========
+print number 5420000...
+Obstacle:	 10045 (52.00%)
+Timeouts:	 9015 (47.00%)
+==========
+
+==========
+print number 5440000...
+Obstacle:	 10164 (52.00%)
+Timeouts:	 9045 (47.00%)
+==========
+
+==========
+print number 5460000...
+Obstacle:	 10264 (53.00%)
+Timeouts:	 9071 (46.00%)
+==========
+
+==========
+print number 5480000...
+Obstacle:	 10370 (53.00%)
+Timeouts:	 9101 (46.00%)
+==========
+
+==========
+print number 5500000...
+Obstacle:	 10512 (53.00%)
+Timeouts:	 9128 (46.00%)
+==========
+
+==========
+print number 5520000...
+Obstacle:	 10619 (53.00%)
+Timeouts:	 9155 (46.00%)
+==========
+
+==========
+print number 5540000...
+Obstacle:	 10724 (53.00%)
+Timeouts:	 9182 (46.00%)
+==========
+
+==========
+print number 5560000...
+Obstacle:	 10830 (54.00%)
+Timeouts:	 9211 (45.00%)
+==========
+
+==========
+print number 5580000...
+Obstacle:	 10989 (54.00%)
+Timeouts:	 9234 (45.00%)
+==========
+
+==========
+print number 5600000...
+Obstacle:	 11158 (54.00%)
+Timeouts:	 9261 (45.00%)
+==========
+
+==========
+print number 5620000...
+Obstacle:	 11277 (54.00%)
+Timeouts:	 9289 (45.00%)
+==========
+
+==========
+print number 5640000...
+Obstacle:	 11389 (55.00%)
+Timeouts:	 9315 (44.00%)
+==========
+
+==========
+print number 5660000...
+Obstacle:	 11548 (55.00%)
+Timeouts:	 9341 (44.00%)
+==========
+
+==========
+print number 5680000...
+Obstacle:	 11679 (55.00%)
+Timeouts:	 9368 (44.00%)
+==========
+
+==========
+print number 5700000...
+Obstacle:	 11842 (55.00%)
+Timeouts:	 9394 (44.00%)
+==========
+
+==========
+print number 5720000...
+Obstacle:	 12005 (56.00%)
+Timeouts:	 9419 (43.00%)
+==========
+
+==========
+print number 5740000...
+Obstacle:	 12172 (56.00%)
+Timeouts:	 9444 (43.00%)
+==========
+
+==========
+print number 5760000...
+Obstacle:	 12375 (56.00%)
+Timeouts:	 9464 (43.00%)
+==========
+
+==========
+print number 5780000...
+Obstacle:	 12565 (56.00%)
+Timeouts:	 9491 (43.00%)
+==========
+
+==========
+print number 5800000...
+Obstacle:	 12768 (57.00%)
+Timeouts:	 9515 (42.00%)
+==========
+
+==========
+print number 5820000...
+Obstacle:	 12904 (57.00%)
+Timeouts:	 9543 (42.00%)
+==========
+
+==========
+print number 5840000...
+Obstacle:	 13022 (57.00%)
+Timeouts:	 9573 (42.00%)
+==========
+
+==========
+print number 5860000...
+Obstacle:	 13156 (57.00%)
+Timeouts:	 9599 (42.00%)
+==========
+
+==========
+print number 5880000...
+Obstacle:	 13314 (58.00%)
+Timeouts:	 9625 (41.00%)
+==========
+
+==========
+print number 5900000...
+Obstacle:	 13461 (58.00%)
+Timeouts:	 9651 (41.00%)
+==========
+
+==========
+print number 5920000...
+Obstacle:	 13617 (58.00%)
+Timeouts:	 9678 (41.00%)
+==========
+
+==========
+print number 5940000...
+Obstacle:	 13789 (58.00%)
+Timeouts:	 9702 (41.00%)
+==========
+
+==========
+print number 5960000...
+Obstacle:	 13983 (58.00%)
+Timeouts:	 9728 (41.00%)
+==========
+
+==========
+print number 5980000...
+Obstacle:	 14144 (59.00%)
+Timeouts:	 9755 (40.00%)
+==========
+
+==========
+print number 6000000...
+Obstacle:	 14360 (59.00%)
+Timeouts:	 9778 (40.00%)
+==========
+
+==========
+print number 6020000...
+Obstacle:	 14521 (59.00%)
+Timeouts:	 9807 (40.00%)
+==========
+
+==========
+print number 6040000...
+Obstacle:	 14662 (59.00%)
+Timeouts:	 9832 (40.00%)
+==========
+
+==========
+print number 6060000...
+Obstacle:	 14841 (60.00%)
+Timeouts:	 9861 (39.00%)
+==========
+
+==========
+print number 6080000...
+Obstacle:	 14963 (60.00%)
+Timeouts:	 9888 (39.00%)
+==========
+
+==========
+print number 6100000...
+Obstacle:	 15171 (60.00%)
+Timeouts:	 9911 (39.00%)
+==========
+
+==========
+print number 6120000...
+Obstacle:	 15412 (60.00%)
+Timeouts:	 9935 (39.00%)
+==========
+
+==========
+print number 6140000...
+Obstacle:	 15561 (60.00%)
+Timeouts:	 9961 (39.00%)
+==========
+
+==========
+print number 6160000...
+Obstacle:	 15789 (61.00%)
+Timeouts:	 9983 (38.00%)
+==========
+
+==========
+print number 6180000...
+Obstacle:	 15973 (61.00%)
+Timeouts:	 10009 (38.00%)
+==========
+
+==========
+print number 6200000...
+Obstacle:	 16175 (61.00%)
+Timeouts:	 10033 (38.00%)
+==========
+
+==========
+print number 6220000...
+Obstacle:	 16389 (61.00%)
+Timeouts:	 10056 (38.00%)
+==========
+
+==========
+print number 6240000...
+Obstacle:	 16581 (62.00%)
+Timeouts:	 10081 (37.00%)
+==========
+
+==========
+print number 6260000...
+Obstacle:	 16779 (62.00%)
+Timeouts:	 10106 (37.00%)
+==========
+
+==========
+print number 6280000...
+Obstacle:	 16982 (62.00%)
+Timeouts:	 10127 (37.00%)
+==========
+
+==========
+print number 6300000...
+Obstacle:	 17155 (62.00%)
+Timeouts:	 10149 (37.00%)
+==========
+
+==========
+print number 6320000...
+Obstacle:	 17346 (63.00%)
+Timeouts:	 10170 (36.00%)
+==========
+
+==========
+print number 6340000...
+Obstacle:	 17495 (63.00%)
+Timeouts:	 10199 (36.00%)
+==========
+
+==========
+print number 6360000...
+Obstacle:	 17693 (63.00%)
+Timeouts:	 10223 (36.00%)
+==========
+
+==========
+print number 6380000...
+Obstacle:	 17879 (63.00%)
+Timeouts:	 10247 (36.00%)
+==========
+
+==========
+print number 6400000...
+Obstacle:	 18051 (63.00%)
+Timeouts:	 10268 (36.00%)
+==========
+
+==========
+print number 6420000...
+Obstacle:	 18233 (63.00%)
+Timeouts:	 10292 (36.00%)
+==========
+
+==========
+print number 6440000...
+Obstacle:	 18458 (64.00%)
+Timeouts:	 10317 (35.00%)
+==========
+
+==========
+print number 6460000...
+Obstacle:	 18700 (64.00%)
+Timeouts:	 10338 (35.00%)
+==========
+
+==========
+print number 6480000...
+Obstacle:	 18911 (64.00%)
+Timeouts:	 10364 (35.00%)
+==========
+
+==========
+print number 6500000...
+Obstacle:	 19100 (64.00%)
+Timeouts:	 10391 (35.00%)
+==========
+
+==========
+print number 6520000...
+Obstacle:	 19312 (64.00%)
+Timeouts:	 10413 (35.00%)
+==========
+
+==========
+print number 6540000...
+Obstacle:	 19513 (65.00%)
+Timeouts:	 10438 (34.00%)
+==========
+
+==========
+print number 6560000...
+Obstacle:	 19687 (65.00%)
+Timeouts:	 10465 (34.00%)
+==========
+
+==========
+print number 6580000...
+Obstacle:	 19862 (65.00%)
+Timeouts:	 10486 (34.00%)
+==========
+
+==========
+print number 6600000...
+Obstacle:	 20077 (65.00%)
+Timeouts:	 10509 (34.00%)
+==========
+
+==========
+print number 6620000...
+Obstacle:	 20312 (65.00%)
+Timeouts:	 10532 (34.00%)
+==========
+
+==========
+print number 6640000...
+Obstacle:	 20516 (66.00%)
+Timeouts:	 10555 (33.00%)
+==========
+
+==========
+print number 6660000...
+Obstacle:	 20719 (66.00%)
+Timeouts:	 10572 (33.00%)
+==========
+
+==========
+print number 6680000...
+Obstacle:	 20938 (66.00%)
+Timeouts:	 10597 (33.00%)
+==========
+
+==========
+print number 6700000...
+Obstacle:	 21123 (66.00%)
+Timeouts:	 10623 (33.00%)
+==========
+
+==========
+print number 6720000...
+Obstacle:	 21387 (66.00%)
+Timeouts:	 10648 (33.00%)
+==========
+
+==========
+print number 6740000...
+Obstacle:	 21549 (66.00%)
+Timeouts:	 10676 (33.00%)
+==========
+
+==========
+print number 6760000...
+Obstacle:	 21814 (67.00%)
+Timeouts:	 10697 (32.00%)
+==========
+
+==========
+print number 6780000...
+Obstacle:	 21956 (67.00%)
+Timeouts:	 10725 (32.00%)
+==========
+
+==========
+print number 6800000...
+Obstacle:	 22165 (67.00%)
+Timeouts:	 10746 (32.00%)
+==========
+
+==========
+print number 6820000...
+Obstacle:	 22324 (67.00%)
+Timeouts:	 10771 (32.00%)
+==========
+
+==========
+print number 6840000...
+Obstacle:	 22498 (67.00%)
+Timeouts:	 10792 (32.00%)
+==========
+
+==========
+print number 6860000...
+Obstacle:	 22619 (67.00%)
+Timeouts:	 10818 (32.00%)
+==========
+
+==========
+print number 6880000...
+Obstacle:	 22844 (67.00%)
+Timeouts:	 10840 (32.00%)
+==========
+
+==========
+print number 6900000...
+Obstacle:	 23039 (67.00%)
+Timeouts:	 10860 (32.00%)
+==========
+
+==========
+print number 6920000...
+Obstacle:	 23254 (68.00%)
+Timeouts:	 10882 (31.00%)
+==========
+
+==========
+print number 6940000...
+Obstacle:	 23419 (68.00%)
+Timeouts:	 10907 (31.00%)
+==========
+
+==========
+print number 6960000...
+Obstacle:	 23636 (68.00%)
+Timeouts:	 10926 (31.00%)
+==========
+
+==========
+print number 6980000...
+Obstacle:	 23810 (68.00%)
+Timeouts:	 10949 (31.00%)
+==========
+
+==========
+print number 7000000...
+Obstacle:	 23960 (68.00%)
+Timeouts:	 10975 (31.00%)
+==========
+
+==========
+print number 7020000...
+Obstacle:	 24131 (68.00%)
+Timeouts:	 10995 (31.00%)
+==========
+
+==========
+print number 7040000...
+Obstacle:	 24360 (68.00%)
+Timeouts:	 11018 (31.00%)
+==========
+
+==========
+print number 7060000...
+Obstacle:	 24507 (68.00%)
+Timeouts:	 11044 (31.00%)
+==========
+
+==========
+print number 7080000...
+Obstacle:	 24651 (69.00%)
+Timeouts:	 11066 (30.00%)
+==========
+
+==========
+print number 7100000...
+Obstacle:	 24793 (69.00%)
+Timeouts:	 11092 (30.00%)
+==========
+
+==========
+print number 7120000...
+Obstacle:	 25000 (69.00%)
+Timeouts:	 11115 (30.00%)
+==========
+
+==========
+print number 7140000...
+Obstacle:	 25158 (69.00%)
+Timeouts:	 11133 (30.00%)
+==========
+
+==========
+print number 7160000...
+Obstacle:	 25308 (69.00%)
+Timeouts:	 11154 (30.00%)
+==========
+
+==========
+print number 7180000...
+Obstacle:	 25461 (69.00%)
+Timeouts:	 11176 (30.00%)
+==========
+
+==========
+print number 7200000...
+Obstacle:	 25559 (69.00%)
+Timeouts:	 11198 (30.00%)
+==========
+
+==========
+print number 7220000...
+Obstacle:	 25714 (69.00%)
+Timeouts:	 11222 (30.00%)
+==========
+
+==========
+print number 7240000...
+Obstacle:	 25904 (69.00%)
+Timeouts:	 11245 (30.00%)
+==========
+
+==========
+print number 7260000...
+Obstacle:	 26130 (69.00%)
+Timeouts:	 11263 (30.00%)
+==========
+
+==========
+print number 7280000...
+Obstacle:	 26265 (69.00%)
+Timeouts:	 11287 (30.00%)
+==========
+
+==========
+print number 7300000...
+Obstacle:	 26385 (69.00%)
+Timeouts:	 11309 (30.00%)
+==========
+
+==========
+print number 7320000...
+Obstacle:	 26560 (70.00%)
+Timeouts:	 11327 (29.00%)
+==========
+
+==========
+print number 7340000...
+Obstacle:	 26686 (70.00%)
+Timeouts:	 11354 (29.00%)
+==========
+
+==========
+print number 7360000...
+Obstacle:	 26852 (70.00%)
+Timeouts:	 11381 (29.00%)
+==========
+
+==========
+print number 7380000...
+Obstacle:	 26970 (70.00%)
+Timeouts:	 11402 (29.00%)
+==========
+
+==========
+print number 7400000...
+Obstacle:	 27093 (70.00%)
+Timeouts:	 11427 (29.00%)
+==========
+
+==========
+print number 7420000...
+Obstacle:	 27213 (70.00%)
+Timeouts:	 11453 (29.00%)
+==========
+
+==========
+print number 7440000...
+Obstacle:	 27344 (70.00%)
+Timeouts:	 11479 (29.00%)
+==========
+
+==========
+print number 7460000...
+Obstacle:	 27507 (70.00%)
+Timeouts:	 11499 (29.00%)
+==========
+
+==========
+print number 7480000...
+Obstacle:	 27655 (70.00%)
+Timeouts:	 11518 (29.00%)
+==========
+
+==========
+print number 7500000...
+Obstacle:	 27821 (70.00%)
+Timeouts:	 11540 (29.00%)
+==========
+
+==========
+print number 7520000...
+Obstacle:	 27932 (70.00%)
+Timeouts:	 11565 (29.00%)
+==========
+
+==========
+print number 7540000...
+Obstacle:	 28063 (70.00%)
+Timeouts:	 11585 (29.00%)
+==========
+
+==========
+print number 7560000...
+Obstacle:	 28161 (70.00%)
+Timeouts:	 11611 (29.00%)
+==========
+
+==========
+print number 7580000...
+Obstacle:	 28327 (70.00%)
+Timeouts:	 11636 (29.00%)
+==========
+
+==========
+print number 7600000...
+Obstacle:	 28484 (70.00%)
+Timeouts:	 11658 (29.00%)
+==========
+
+==========
+print number 7620000...
+Obstacle:	 28619 (71.00%)
+Timeouts:	 11683 (28.00%)
+==========
+
+==========
+print number 7640000...
+Obstacle:	 28780 (71.00%)
+Timeouts:	 11707 (28.00%)
+==========
+
+==========
+print number 7660000...
+Obstacle:	 28917 (71.00%)
+Timeouts:	 11729 (28.00%)
+==========
+
+==========
+print number 7680000...
+Obstacle:	 29069 (71.00%)
+Timeouts:	 11751 (28.00%)
+==========
+
+==========
+print number 7700000...
+Obstacle:	 29222 (71.00%)
+Timeouts:	 11772 (28.00%)
+==========
+
+==========
+print number 7720000...
+Obstacle:	 29371 (71.00%)
+Timeouts:	 11796 (28.00%)
+==========
+
+==========
+print number 7740000...
+Obstacle:	 29498 (71.00%)
+Timeouts:	 11820 (28.00%)
+==========
+
+==========
+print number 7760000...
+Obstacle:	 29647 (71.00%)
+Timeouts:	 11844 (28.00%)
+==========
+
+==========
+print number 7780000...
+Obstacle:	 29773 (71.00%)
+Timeouts:	 11867 (28.00%)
+==========
+
+==========
+print number 7800000...
+Obstacle:	 29915 (71.00%)
+Timeouts:	 11885 (28.00%)
+==========
+
+==========
+print number 7820000...
+Obstacle:	 30076 (71.00%)
+Timeouts:	 11903 (28.00%)
+==========
+
+==========
+print number 7840000...
+Obstacle:	 30192 (71.00%)
+Timeouts:	 11925 (28.00%)
+==========
+
+==========
+print number 7860000...
+Obstacle:	 30314 (71.00%)
+Timeouts:	 11944 (28.00%)
+==========
+
+==========
+print number 7880000...
+Obstacle:	 30484 (71.00%)
+Timeouts:	 11959 (28.00%)
+==========
+
+==========
+print number 7900000...
+Obstacle:	 30628 (71.00%)
+Timeouts:	 11974 (28.00%)
+==========
+
+==========
+print number 7920000...
+Obstacle:	 30772 (71.00%)
+Timeouts:	 11992 (28.00%)
+==========
+
+==========
+print number 7940000...
+Obstacle:	 30883 (71.00%)
+Timeouts:	 12013 (28.00%)
+==========
+
+==========
+print number 7960000...
+Obstacle:	 31029 (72.00%)
+Timeouts:	 12032 (27.00%)
+==========
+
+==========
+print number 7980000...
+Obstacle:	 31150 (72.00%)
+Timeouts:	 12060 (27.00%)
+==========
+
+==========
+print number 8000000...
+Obstacle:	 31303 (72.00%)
+Timeouts:	 12079 (27.00%)
+==========
+
+==========
+print number 8020000...
+Obstacle:	 31460 (72.00%)
+Timeouts:	 12100 (27.00%)
+==========
+
+==========
+print number 8040000...
+Obstacle:	 31564 (72.00%)
+Timeouts:	 12124 (27.00%)
+==========
+
+==========
+print number 8060000...
+Obstacle:	 31721 (72.00%)
+Timeouts:	 12143 (27.00%)
+==========
+
+==========
+print number 8080000...
+Obstacle:	 31816 (72.00%)
+Timeouts:	 12169 (27.00%)
+==========
+
+==========
+print number 8100000...
+Obstacle:	 31933 (72.00%)
+Timeouts:	 12196 (27.00%)
+==========
+
+==========
+print number 8120000...
+Obstacle:	 32071 (72.00%)
+Timeouts:	 12219 (27.00%)
+==========
+
+==========
+print number 8140000...
+Obstacle:	 32206 (72.00%)
+Timeouts:	 12240 (27.00%)
+==========
+
+==========
+print number 8160000...
+Obstacle:	 32357 (72.00%)
+Timeouts:	 12261 (27.00%)
+==========
+
+==========
+print number 8180000...
+Obstacle:	 32532 (72.00%)
+Timeouts:	 12282 (27.00%)
+==========
+
+==========
+print number 8200000...
+Obstacle:	 32690 (72.00%)
+Timeouts:	 12302 (27.00%)
+==========
+
+==========
+print number 8220000...
+Obstacle:	 32853 (72.00%)
+Timeouts:	 12321 (27.00%)
+==========
+
+==========
+print number 8240000...
+Obstacle:	 32989 (72.00%)
+Timeouts:	 12343 (27.00%)
+==========
+
+==========
+print number 8260000...
+Obstacle:	 33149 (72.00%)
+Timeouts:	 12363 (27.00%)
+==========
+
+==========
+print number 8280000...
+Obstacle:	 33307 (72.00%)
+Timeouts:	 12382 (27.00%)
+==========
+
+==========
+print number 8300000...
+Obstacle:	 33451 (72.00%)
+Timeouts:	 12401 (27.00%)
+==========
+
+==========
+print number 8320000...
+Obstacle:	 33591 (73.00%)
+Timeouts:	 12418 (26.00%)
+==========
+
+==========
+print number 8340000...
+Obstacle:	 33705 (73.00%)
+Timeouts:	 12436 (26.00%)
+==========
+
+==========
+print number 8360000...
+Obstacle:	 33828 (73.00%)
+Timeouts:	 12456 (26.00%)
+==========
+
+==========
+print number 8380000...
+Obstacle:	 33921 (73.00%)
+Timeouts:	 12477 (26.00%)
+==========
+
+==========
+print number 8400000...
+Obstacle:	 34021 (73.00%)
+Timeouts:	 12494 (26.00%)
+==========
+
+==========
+print number 8420000...
+Obstacle:	 34160 (73.00%)
+Timeouts:	 12512 (26.00%)
+==========
+
+==========
+print number 8440000...
+Obstacle:	 34299 (73.00%)
+Timeouts:	 12532 (26.00%)
+==========
+
+==========
+print number 8460000...
+Obstacle:	 34388 (73.00%)
+Timeouts:	 12552 (26.00%)
+==========
+
+==========
+print number 8480000...
+Obstacle:	 34503 (73.00%)
+Timeouts:	 12568 (26.00%)
+==========
+
+==========
+print number 8500000...
+Obstacle:	 34591 (73.00%)
+Timeouts:	 12589 (26.00%)
+==========
+
+==========
+print number 8520000...
+Obstacle:	 34692 (73.00%)
+Timeouts:	 12612 (26.00%)
+==========
+
+==========
+print number 8540000...
+Obstacle:	 34804 (73.00%)
+Timeouts:	 12632 (26.00%)
+==========
+
+==========
+print number 8560000...
+Obstacle:	 34897 (73.00%)
+Timeouts:	 12653 (26.00%)
+==========
+
+==========
+print number 8580000...
+Obstacle:	 35002 (73.00%)
+Timeouts:	 12671 (26.00%)
+==========
+
+==========
+print number 8600000...
+Obstacle:	 35110 (73.00%)
+Timeouts:	 12691 (26.00%)
+==========
+
+==========
+print number 8620000...
+Obstacle:	 35190 (73.00%)
+Timeouts:	 12713 (26.00%)
+==========
+
+==========
+print number 8640000...
+Obstacle:	 35256 (73.00%)
+Timeouts:	 12738 (26.00%)
+==========
+
+==========
+print number 8660000...
+Obstacle:	 35388 (73.00%)
+Timeouts:	 12756 (26.00%)
+==========
+
+==========
+print number 8680000...
+Obstacle:	 35500 (73.00%)
+Timeouts:	 12774 (26.00%)
+==========
+
+==========
+print number 8700000...
+Obstacle:	 35591 (73.00%)
+Timeouts:	 12795 (26.00%)
+==========
+
+==========
+print number 8720000...
+Obstacle:	 35680 (73.00%)
+Timeouts:	 12817 (26.00%)
+==========
+
+==========
+print number 8740000...
+Obstacle:	 35750 (73.00%)
+Timeouts:	 12841 (26.00%)
+==========
+
+==========
+print number 8760000...
+Obstacle:	 35880 (73.00%)
+Timeouts:	 12858 (26.00%)
+==========
+
+==========
+print number 8780000...
+Obstacle:	 35978 (73.00%)
+Timeouts:	 12878 (26.00%)
+==========
+
+==========
+print number 8800000...
+Obstacle:	 36068 (73.00%)
+Timeouts:	 12900 (26.00%)
+==========
+
+==========
+print number 8820000...
+Obstacle:	 36174 (73.00%)
+Timeouts:	 12920 (26.00%)
+==========
+
+==========
+print number 8840000...
+Obstacle:	 36258 (73.00%)
+Timeouts:	 12939 (26.00%)
+==========
+
+==========
+print number 8860000...
+Obstacle:	 36376 (73.00%)
+Timeouts:	 12961 (26.00%)
+==========
+
+==========
+print number 8880000...
+Obstacle:	 36503 (73.00%)
+Timeouts:	 12979 (26.00%)
+==========
+
+==========
+print number 8900000...
+Obstacle:	 36572 (73.00%)
+Timeouts:	 13000 (26.00%)
+==========
+
+==========
+print number 8920000...
+Obstacle:	 36648 (73.00%)
+Timeouts:	 13023 (26.00%)
+==========
+
+==========
+print number 8940000...
+Obstacle:	 36760 (73.00%)
+Timeouts:	 13043 (26.00%)
+==========
+
+==========
+print number 8960000...
+Obstacle:	 36892 (73.00%)
+Timeouts:	 13062 (26.00%)
+==========
+
+==========
+print number 8980000...
+Obstacle:	 37041 (73.00%)
+Timeouts:	 13082 (26.00%)
+==========
+
+==========
+print number 9000000...
+Obstacle:	 37135 (73.00%)
+Timeouts:	 13103 (26.00%)
+==========
+
+==========
+print number 9020000...
+Obstacle:	 37215 (73.00%)
+Timeouts:	 13125 (26.00%)
+==========
+
+==========
+print number 9040000...
+Obstacle:	 37302 (73.00%)
+Timeouts:	 13146 (26.00%)
+==========
+
+==========
+print number 9060000...
+Obstacle:	 37407 (73.00%)
+Timeouts:	 13165 (26.00%)
+==========
+
+==========
+print number 9080000...
+Obstacle:	 37535 (74.00%)
+Timeouts:	 13182 (25.00%)
+==========
+
+==========
+print number 9100000...
+Obstacle:	 37626 (74.00%)
+Timeouts:	 13201 (25.00%)
+==========
+
+==========
+print number 9120000...
+Obstacle:	 37704 (74.00%)
+Timeouts:	 13224 (25.00%)
+==========
+
+==========
+print number 9140000...
+Obstacle:	 37821 (74.00%)
+Timeouts:	 13241 (25.00%)
+==========
+
+==========
+print number 9160000...
+Obstacle:	 37934 (74.00%)
+Timeouts:	 13262 (25.00%)
+==========
+
+==========
+print number 9180000...
+Obstacle:	 38030 (74.00%)
+Timeouts:	 13280 (25.00%)
+==========
+
+==========
+print number 9200000...
+Obstacle:	 38105 (74.00%)
+Timeouts:	 13302 (25.00%)
+==========
+
+==========
+print number 9220000...
+Obstacle:	 38171 (74.00%)
+Timeouts:	 13317 (25.00%)
+==========
+
+==========
+print number 9240000...
+Obstacle:	 38253 (74.00%)
+Timeouts:	 13337 (25.00%)
+==========
+
+==========
+print number 9260000...
+Obstacle:	 38362 (74.00%)
+Timeouts:	 13357 (25.00%)
+==========
+
+==========
+print number 9280000...
+Obstacle:	 38438 (74.00%)
+Timeouts:	 13383 (25.00%)
+==========
+
+==========
+print number 9300000...
+Obstacle:	 38535 (74.00%)
+Timeouts:	 13402 (25.00%)
+==========
+
+==========
+print number 9320000...
+Obstacle:	 38634 (74.00%)
+Timeouts:	 13419 (25.00%)
+==========
+
+==========
+print number 9340000...
+Obstacle:	 38722 (74.00%)
+Timeouts:	 13436 (25.00%)
+==========
+
+==========
+print number 9360000...
+Obstacle:	 38787 (74.00%)
+Timeouts:	 13456 (25.00%)
+==========
+
+==========
+print number 9380000...
+Obstacle:	 38869 (74.00%)
+Timeouts:	 13474 (25.00%)
+==========
+
+==========
+print number 9400000...
+Obstacle:	 38958 (74.00%)
+Timeouts:	 13492 (25.00%)
+==========
+
+==========
+print number 9420000...
+Obstacle:	 39045 (74.00%)
+Timeouts:	 13510 (25.00%)
+==========
+
+==========
+print number 9440000...
+Obstacle:	 39134 (74.00%)
+Timeouts:	 13528 (25.00%)
+==========
+
+==========
+print number 9460000...
+Obstacle:	 39215 (74.00%)
+Timeouts:	 13549 (25.00%)
+==========
+
+==========
+print number 9480000...
+Obstacle:	 39288 (74.00%)
+Timeouts:	 13570 (25.00%)
+==========
+
+==========
+print number 9500000...
+Obstacle:	 39373 (74.00%)
+Timeouts:	 13591 (25.00%)
+==========
+
+==========
+print number 9520000...
+Obstacle:	 39435 (74.00%)
+Timeouts:	 13611 (25.00%)
+==========
+
+==========
+print number 9540000...
+Obstacle:	 39552 (74.00%)
+Timeouts:	 13625 (25.00%)
+==========
+
+==========
+print number 9560000...
+Obstacle:	 39627 (74.00%)
+Timeouts:	 13648 (25.00%)
+==========
+
+==========
+print number 9580000...
+Obstacle:	 39717 (74.00%)
+Timeouts:	 13668 (25.00%)
+==========
+
+==========
+print number 9600000...
+Obstacle:	 39805 (74.00%)
+Timeouts:	 13685 (25.00%)
+==========
+
+==========
+print number 9620000...
+Obstacle:	 39881 (74.00%)
+Timeouts:	 13706 (25.00%)
+==========
+
+==========
+print number 9640000...
+Obstacle:	 39962 (74.00%)
+Timeouts:	 13729 (25.00%)
+==========
+
+==========
+print number 9660000...
+Obstacle:	 40078 (74.00%)
+Timeouts:	 13744 (25.00%)
+==========
+
+==========
+print number 9680000...
+Obstacle:	 40155 (74.00%)
+Timeouts:	 13767 (25.00%)
+==========
+
+==========
+print number 9700000...
+Obstacle:	 40210 (74.00%)
+Timeouts:	 13790 (25.00%)
+==========
+
+==========
+print number 9720000...
+Obstacle:	 40278 (74.00%)
+Timeouts:	 13815 (25.00%)
+==========
+
+==========
+print number 9740000...
+Obstacle:	 40361 (74.00%)
+Timeouts:	 13831 (25.00%)
+==========
+
+==========
+print number 9760000...
+Obstacle:	 40425 (74.00%)
+Timeouts:	 13851 (25.00%)
+==========
+
+==========
+print number 9780000...
+Obstacle:	 40501 (74.00%)
+Timeouts:	 13871 (25.00%)
+==========
+
+==========
+print number 9800000...
+Obstacle:	 40565 (74.00%)
+Timeouts:	 13896 (25.00%)
+==========
+
+==========
+print number 9820000...
+Obstacle:	 40625 (74.00%)
+Timeouts:	 13916 (25.00%)
+==========
+
+==========
+print number 9840000...
+Obstacle:	 40686 (74.00%)
+Timeouts:	 13940 (25.00%)
+==========
+
+==========
+print number 9860000...
+Obstacle:	 40768 (74.00%)
+Timeouts:	 13960 (25.00%)
+==========
+
+==========
+print number 9880000...
+Obstacle:	 40816 (74.00%)
+Timeouts:	 13983 (25.00%)
+==========
+
+==========
+print number 9900000...
+Obstacle:	 40864 (74.00%)
+Timeouts:	 14004 (25.00%)
+==========
+
+==========
+print number 9920000...
+Obstacle:	 40931 (74.00%)
+Timeouts:	 14026 (25.00%)
+==========
+
+==========
+print number 9940000...
+Obstacle:	 41013 (74.00%)
+Timeouts:	 14040 (25.00%)
+==========
+
+==========
+print number 9960000...
+Obstacle:	 41093 (74.00%)
+Timeouts:	 14059 (25.00%)
+==========
+
+==========
+print number 9980000...
+Obstacle:	 41173 (74.00%)
+Timeouts:	 14079 (25.00%)
+==========
+
+==========
+print number 10000000...
+Obstacle:	 41239 (74.00%)
+Timeouts:	 14097 (25.00%)
+==========
+
+==========
+print number 10020000...
+Obstacle:	 41303 (74.00%)
+Timeouts:	 14120 (25.00%)
+==========
+
+==========
+print number 10040000...
+Obstacle:	 41369 (74.00%)
+Timeouts:	 14140 (25.00%)
+==========
+
+==========
+print number 10060000...
+Obstacle:	 41454 (74.00%)
+Timeouts:	 14159 (25.00%)
+==========
+
+==========
+print number 10080000...
+Obstacle:	 41518 (74.00%)
+Timeouts:	 14178 (25.00%)
+==========
+
+==========
+print number 10100000...
+Obstacle:	 41602 (74.00%)
+Timeouts:	 14200 (25.00%)
+==========
+
+==========
+print number 10120000...
+Obstacle:	 41682 (74.00%)
+Timeouts:	 14217 (25.00%)
+==========
+
+==========
+print number 10140000...
+Obstacle:	 41752 (74.00%)
+Timeouts:	 14237 (25.00%)
+==========
+
+==========
+print number 10160000...
+Obstacle:	 41826 (74.00%)
+Timeouts:	 14260 (25.00%)
+==========
+
+==========
+print number 10180000...
+Obstacle:	 41879 (74.00%)
+Timeouts:	 14282 (25.00%)
+==========
+
+==========
+print number 10200000...
+Obstacle:	 41939 (74.00%)
+Timeouts:	 14301 (25.00%)
+==========
+
+==========
+print number 10220000...
+Obstacle:	 41989 (74.00%)
+Timeouts:	 14322 (25.00%)
+==========
+
+==========
+print number 10240000...
+Obstacle:	 42048 (74.00%)
+Timeouts:	 14344 (25.00%)
+==========
+
+==========
+print number 10260000...
+Obstacle:	 42100 (74.00%)
+Timeouts:	 14361 (25.00%)
+==========
+
+==========
+print number 10280000...
+Obstacle:	 42165 (74.00%)
+Timeouts:	 14381 (25.00%)
+==========
+
+==========
+print number 10300000...
+Obstacle:	 42232 (74.00%)
+Timeouts:	 14401 (25.00%)
+==========
+
+==========
+print number 10320000...
+Obstacle:	 42292 (74.00%)
+Timeouts:	 14420 (25.00%)
+==========
+
+==========
+print number 10340000...
+Obstacle:	 42359 (74.00%)
+Timeouts:	 14440 (25.00%)
+==========
+
+==========
+print number 10360000...
+Obstacle:	 42410 (74.00%)
+Timeouts:	 14462 (25.00%)
+==========
+
+==========
+print number 10380000...
+Obstacle:	 42483 (74.00%)
+Timeouts:	 14484 (25.00%)
+==========
+
+==========
+print number 10400000...
+Obstacle:	 42550 (74.00%)
+Timeouts:	 14507 (25.00%)
+==========
+
+==========
+print number 10420000...
+Obstacle:	 42613 (74.00%)
+Timeouts:	 14528 (25.00%)
+==========
+
+==========
+print number 10440000...
+Obstacle:	 42688 (74.00%)
+Timeouts:	 14543 (25.00%)
+==========
+
+==========
+print number 10460000...
+Obstacle:	 42756 (74.00%)
+Timeouts:	 14563 (25.00%)
+==========
+
+==========
+print number 10480000...
+Obstacle:	 42816 (74.00%)
+Timeouts:	 14578 (25.00%)
+==========
+
+==========
+print number 10500000...
+Obstacle:	 42892 (74.00%)
+Timeouts:	 14592 (25.00%)
+==========
+
+==========
+print number 10520000...
+Obstacle:	 42960 (74.00%)
+Timeouts:	 14610 (25.00%)
+==========
+
+==========
+print number 10540000...
+Obstacle:	 43023 (74.00%)
+Timeouts:	 14626 (25.00%)
+==========
+
+==========
+print number 10560000...
+Obstacle:	 43079 (74.00%)
+Timeouts:	 14650 (25.00%)
+==========
+
+==========
+print number 10580000...
+Obstacle:	 43133 (74.00%)
+Timeouts:	 14671 (25.00%)
+==========
+
+==========
+print number 10600000...
+Obstacle:	 43172 (74.00%)
+Timeouts:	 14687 (25.00%)
+==========
+
+==========
+print number 10620000...
+Obstacle:	 43240 (74.00%)
+Timeouts:	 14704 (25.00%)
+==========
+
+==========
+print number 10640000...
+Obstacle:	 43292 (74.00%)
+Timeouts:	 14722 (25.00%)
+==========
+
+==========
+print number 10660000...
+Obstacle:	 43359 (74.00%)
+Timeouts:	 14739 (25.00%)
+==========
+
+==========
+print number 10680000...
+Obstacle:	 43409 (74.00%)
+Timeouts:	 14759 (25.00%)
+==========
+
+==========
+print number 10700000...
+Obstacle:	 43445 (74.00%)
+Timeouts:	 14779 (25.00%)
+==========
+
+==========
+print number 10720000...
+Obstacle:	 43499 (74.00%)
+Timeouts:	 14797 (25.00%)
+==========
+
+==========
+print number 10740000...
+Obstacle:	 43549 (74.00%)
+Timeouts:	 14819 (25.00%)
+==========
+
+==========
+print number 10760000...
+Obstacle:	 43611 (74.00%)
+Timeouts:	 14839 (25.00%)
+==========
+
+==========
+print number 10780000...
+Obstacle:	 43675 (74.00%)
+Timeouts:	 14854 (25.00%)
+==========
+
+==========
+print number 10800000...
+Obstacle:	 43716 (74.00%)
+Timeouts:	 14874 (25.00%)
+==========
+
+==========
+print number 10820000...
+Obstacle:	 43755 (74.00%)
+Timeouts:	 14898 (25.00%)
+==========
+
+==========
+print number 10840000...
+Obstacle:	 43823 (74.00%)
+Timeouts:	 14916 (25.00%)
+==========
+
+==========
+print number 10860000...
+Obstacle:	 43867 (74.00%)
+Timeouts:	 14937 (25.00%)
+==========
+
+==========
+print number 10880000...
+Obstacle:	 43911 (74.00%)
+Timeouts:	 14956 (25.00%)
+==========
+
+==========
+print number 10900000...
+Obstacle:	 43938 (74.00%)
+Timeouts:	 14979 (25.00%)
+==========
+
+==========
+print number 10920000...
+Obstacle:	 44010 (74.00%)
+Timeouts:	 14992 (25.00%)
+==========
+
+==========
+print number 10940000...
+Obstacle:	 44073 (74.00%)
+Timeouts:	 15011 (25.00%)
+==========
+
+==========
+print number 10960000...
+Obstacle:	 44116 (74.00%)
+Timeouts:	 15028 (25.00%)
+==========
+
+==========
+print number 10980000...
+Obstacle:	 44164 (74.00%)
+Timeouts:	 15049 (25.00%)
+==========
+
+==========
+print number 11000000...
+Obstacle:	 44207 (74.00%)
+Timeouts:	 15071 (25.00%)
+==========
+
+==========
+print number 11020000...
+Obstacle:	 44256 (74.00%)
+Timeouts:	 15090 (25.00%)
+==========
+
+==========
+print number 11040000...
+Obstacle:	 44315 (74.00%)
+Timeouts:	 15109 (25.00%)
+==========
+
+==========
+print number 11060000...
+Obstacle:	 44360 (74.00%)
+Timeouts:	 15132 (25.00%)
+==========
+
+==========
+print number 11080000...
+Obstacle:	 44383 (74.00%)
+Timeouts:	 15155 (25.00%)
+==========
+
+==========
+print number 11100000...
+Obstacle:	 44441 (74.00%)
+Timeouts:	 15174 (25.00%)
+==========
+
+==========
+print number 11120000...
+Obstacle:	 44486 (74.00%)
+Timeouts:	 15193 (25.00%)
+==========
+
+==========
+print number 11140000...
+Obstacle:	 44566 (74.00%)
+Timeouts:	 15206 (25.00%)
+==========
+
+==========
+print number 11160000...
+Obstacle:	 44643 (74.00%)
+Timeouts:	 15222 (25.00%)
+==========
+
+==========
+print number 11180000...
+Obstacle:	 44711 (74.00%)
+Timeouts:	 15239 (25.00%)
+==========
+
+==========
+print number 11200000...
+Obstacle:	 44786 (74.00%)
+Timeouts:	 15257 (25.00%)
+==========
+
+==========
+print number 11220000...
+Obstacle:	 44842 (74.00%)
+Timeouts:	 15277 (25.00%)
+==========
+
+==========
+print number 11240000...
+Obstacle:	 44898 (74.00%)
+Timeouts:	 15297 (25.00%)
+==========
+
+==========
+print number 11260000...
+Obstacle:	 44962 (74.00%)
+Timeouts:	 15310 (25.00%)
+==========
+
+==========
+print number 11280000...
+Obstacle:	 45022 (74.00%)
+Timeouts:	 15328 (25.00%)
+==========
+
+==========
+print number 11300000...
+Obstacle:	 45077 (74.00%)
+Timeouts:	 15349 (25.00%)
+==========
+
+==========
+print number 11320000...
+Obstacle:	 45138 (74.00%)
+Timeouts:	 15366 (25.00%)
+==========
+
+==========
+print number 11340000...
+Obstacle:	 45201 (74.00%)
+Timeouts:	 15388 (25.00%)
+==========
+
+==========
+print number 11360000...
+Obstacle:	 45249 (74.00%)
+Timeouts:	 15407 (25.00%)
+==========
+
+==========
+print number 11380000...
+Obstacle:	 45302 (74.00%)
+Timeouts:	 15427 (25.00%)
+==========
+
+==========
+print number 11400000...
+Obstacle:	 45372 (74.00%)
+Timeouts:	 15446 (25.00%)
+==========
+
+==========
+print number 11420000...
+Obstacle:	 45428 (74.00%)
+Timeouts:	 15465 (25.00%)
+==========
+
+==========
+print number 11440000...
+Obstacle:	 45498 (74.00%)
+Timeouts:	 15481 (25.00%)
+==========
+
+==========
+print number 11460000...
+Obstacle:	 45556 (74.00%)
+Timeouts:	 15501 (25.00%)
+==========
+
+==========
+print number 11480000...
+Obstacle:	 45593 (74.00%)
+Timeouts:	 15522 (25.00%)
+==========
+
+==========
+print number 11500000...
+Obstacle:	 45639 (74.00%)
+Timeouts:	 15541 (25.00%)
+==========
+
+==========
+print number 11520000...
+Obstacle:	 45689 (74.00%)
+Timeouts:	 15561 (25.00%)
+==========
+
+==========
+print number 11540000...
+Obstacle:	 45738 (74.00%)
+Timeouts:	 15577 (25.00%)
+==========
+
+==========
+print number 11560000...
+Obstacle:	 45782 (74.00%)
+Timeouts:	 15595 (25.00%)
+==========
+
+==========
+print number 11580000...
+Obstacle:	 45846 (74.00%)
+Timeouts:	 15612 (25.00%)
+==========
+
+==========
+print number 11600000...
+Obstacle:	 45900 (74.00%)
+Timeouts:	 15630 (25.00%)
+==========
+
+==========
+print number 11620000...
+Obstacle:	 45954 (74.00%)
+Timeouts:	 15653 (25.00%)
+==========
+
+==========
+print number 11640000...
+Obstacle:	 46004 (74.00%)
+Timeouts:	 15675 (25.00%)
+==========
+
+==========
+print number 11660000...
+Obstacle:	 46083 (74.00%)
+Timeouts:	 15689 (25.00%)
+==========
+
+==========
+print number 11680000...
+Obstacle:	 46143 (74.00%)
+Timeouts:	 15708 (25.00%)
+==========
+
+==========
+print number 11700000...
+Obstacle:	 46217 (74.00%)
+Timeouts:	 15721 (25.00%)
+==========
+
+==========
+print number 11720000...
+Obstacle:	 46264 (74.00%)
+Timeouts:	 15744 (25.00%)
+==========
+
+==========
+print number 11740000...
+Obstacle:	 46314 (74.00%)
+Timeouts:	 15763 (25.00%)
+==========
+
+==========
+print number 11760000...
+Obstacle:	 46368 (74.00%)
+Timeouts:	 15779 (25.00%)
+==========
+
+==========
+print number 11780000...
+Obstacle:	 46435 (74.00%)
+Timeouts:	 15795 (25.00%)
+==========
+
+==========
+print number 11800000...
+Obstacle:	 46475 (74.00%)
+Timeouts:	 15816 (25.00%)
+==========
+
+==========
+print number 11820000...
+Obstacle:	 46530 (74.00%)
+Timeouts:	 15839 (25.00%)
+==========
+
+==========
+print number 11840000...
+Obstacle:	 46582 (74.00%)
+Timeouts:	 15861 (25.00%)
+==========
+
+==========
+print number 11860000...
+Obstacle:	 46626 (74.00%)
+Timeouts:	 15880 (25.00%)
+==========
+
+==========
+print number 11880000...
+Obstacle:	 46699 (74.00%)
+Timeouts:	 15897 (25.00%)
+==========
+
+==========
+print number 11900000...
+Obstacle:	 46741 (74.00%)
+Timeouts:	 15916 (25.00%)
+==========
+
+==========
+print number 11920000...
+Obstacle:	 46808 (74.00%)
+Timeouts:	 15935 (25.00%)
+==========
+
+==========
+print number 11940000...
+Obstacle:	 46851 (74.00%)
+Timeouts:	 15953 (25.00%)
+==========
+
+==========
+print number 11960000...
+Obstacle:	 46927 (74.00%)
+Timeouts:	 15967 (25.00%)
+==========
+
+==========
+print number 11980000...
+Obstacle:	 46979 (74.00%)
+Timeouts:	 15985 (25.00%)
+==========
+
+==========
+print number 12000000...
+Obstacle:	 47029 (74.00%)
+Timeouts:	 16006 (25.00%)
+==========
+
+==========
+print number 12020000...
+Obstacle:	 47070 (74.00%)
+Timeouts:	 16025 (25.00%)
+==========
+
+==========
+print number 12040000...
+Obstacle:	 47145 (74.00%)
+Timeouts:	 16038 (25.00%)
+==========
+
+==========
+print number 12060000...
+Obstacle:	 47182 (74.00%)
+Timeouts:	 16061 (25.00%)
+==========
+
+==========
+print number 12080000...
+Obstacle:	 47230 (74.00%)
+Timeouts:	 16078 (25.00%)
+==========
+
+==========
+print number 12100000...
+Obstacle:	 47294 (74.00%)
+Timeouts:	 16097 (25.00%)
+==========
+
+==========
+print number 12120000...
+Obstacle:	 47355 (74.00%)
+Timeouts:	 16114 (25.00%)
+==========
+
+==========
+print number 12140000...
+Obstacle:	 47398 (74.00%)
+Timeouts:	 16134 (25.00%)
+==========
+
+==========
+print number 12160000...
+Obstacle:	 47463 (74.00%)
+Timeouts:	 16151 (25.00%)
+==========
+
+==========
+print number 12180000...
+Obstacle:	 47525 (74.00%)
+Timeouts:	 16172 (25.00%)
+==========
+
+==========
+print number 12200000...
+Obstacle:	 47585 (74.00%)
+Timeouts:	 16191 (25.00%)
+==========
+
+==========
+print number 12220000...
+Obstacle:	 47634 (74.00%)
+Timeouts:	 16211 (25.00%)
+==========
+
+==========
+print number 12240000...
+Obstacle:	 47679 (74.00%)
+Timeouts:	 16226 (25.00%)
+==========
+
+==========
+print number 12260000...
+Obstacle:	 47730 (74.00%)
+Timeouts:	 16245 (25.00%)
+==========
+
+==========
+print number 12280000...
+Obstacle:	 47797 (74.00%)
+Timeouts:	 16261 (25.00%)
+==========
+
+==========
+print number 12300000...
+Obstacle:	 47858 (74.00%)
+Timeouts:	 16276 (25.00%)
+==========
+
+==========
+print number 12320000...
+Obstacle:	 47924 (74.00%)
+Timeouts:	 16289 (25.00%)
+==========
+
+==========
+print number 12340000...
+Obstacle:	 47970 (74.00%)
+Timeouts:	 16310 (25.00%)
+==========
+
+==========
+print number 12360000...
+Obstacle:	 48023 (74.00%)
+Timeouts:	 16322 (25.00%)
+==========
+
+==========
+print number 12380000...
+Obstacle:	 48074 (74.00%)
+Timeouts:	 16344 (25.00%)
+==========
+
+==========
+print number 12400000...
+Obstacle:	 48122 (74.00%)
+Timeouts:	 16367 (25.00%)
+==========
+
+==========
+print number 12420000...
+Obstacle:	 48168 (74.00%)
+Timeouts:	 16384 (25.00%)
+==========
+
+==========
+print number 12440000...
+Obstacle:	 48206 (74.00%)
+Timeouts:	 16406 (25.00%)
+==========
+
+==========
+print number 12460000...
+Obstacle:	 48255 (74.00%)
+Timeouts:	 16426 (25.00%)
+==========
+
+==========
+print number 12480000...
+Obstacle:	 48306 (74.00%)
+Timeouts:	 16444 (25.00%)
+==========
+
+==========
+print number 12500000...
+Obstacle:	 48353 (74.00%)
+Timeouts:	 16466 (25.00%)
+==========
+
+==========
+print number 12520000...
+Obstacle:	 48399 (74.00%)
+Timeouts:	 16489 (25.00%)
+==========
+
+==========
+print number 12540000...
+Obstacle:	 48444 (74.00%)
+Timeouts:	 16514 (25.00%)
+==========
+
+==========
+print number 12560000...
+Obstacle:	 48499 (74.00%)
+Timeouts:	 16532 (25.00%)
+==========
+
+==========
+print number 12580000...
+Obstacle:	 48545 (74.00%)
+Timeouts:	 16555 (25.00%)
+==========
+
+==========
+print number 12600000...
+Obstacle:	 48582 (74.00%)
+Timeouts:	 16573 (25.00%)
+==========
+
+==========
+print number 12620000...
+Obstacle:	 48633 (74.00%)
+Timeouts:	 16592 (25.00%)
+==========
+
+==========
+print number 12640000...
+Obstacle:	 48690 (74.00%)
+Timeouts:	 16612 (25.00%)
+==========
+
+==========
+print number 12660000...
+Obstacle:	 48739 (74.00%)
+Timeouts:	 16630 (25.00%)
+==========
+
+==========
+print number 12680000...
+Obstacle:	 48770 (74.00%)
+Timeouts:	 16653 (25.00%)
+==========
+
+==========
+print number 12700000...
+Obstacle:	 48827 (74.00%)
+Timeouts:	 16669 (25.00%)
+==========
+
+==========
+print number 12720000...
+Obstacle:	 48872 (74.00%)
+Timeouts:	 16689 (25.00%)
+==========
+
+==========
+print number 12740000...
+Obstacle:	 48908 (74.00%)
+Timeouts:	 16711 (25.00%)
+==========
+
+==========
+print number 12760000...
+Obstacle:	 48976 (74.00%)
+Timeouts:	 16729 (25.00%)
+==========
+
+==========
+print number 12780000...
+Obstacle:	 49026 (74.00%)
+Timeouts:	 16746 (25.00%)
+==========
+
+==========
+print number 12800000...
+Obstacle:	 49083 (74.00%)
+Timeouts:	 16767 (25.00%)
+==========
+
+==========
+print number 12820000...
+Obstacle:	 49139 (74.00%)
+Timeouts:	 16790 (25.00%)
+==========
+
+==========
+print number 12840000...
+Obstacle:	 49193 (74.00%)
+Timeouts:	 16808 (25.00%)
+==========
+
+==========
+print number 12860000...
+Obstacle:	 49239 (74.00%)
+Timeouts:	 16829 (25.00%)
+==========
+
+==========
+print number 12880000...
+Obstacle:	 49309 (74.00%)
+Timeouts:	 16847 (25.00%)
+==========
+
+==========
+print number 12900000...
+Obstacle:	 49369 (74.00%)
+Timeouts:	 16864 (25.00%)
+==========
+
+==========
+print number 12920000...
+Obstacle:	 49412 (74.00%)
+Timeouts:	 16884 (25.00%)
+==========
+
+==========
+print number 12940000...
+Obstacle:	 49464 (74.00%)
+Timeouts:	 16898 (25.00%)
+==========
+
+==========
+print number 12960000...
+Obstacle:	 49513 (74.00%)
+Timeouts:	 16922 (25.00%)
+==========
+
+==========
+print number 12980000...
+Obstacle:	 49554 (74.00%)
+Timeouts:	 16945 (25.00%)
+==========
+
+==========
+print number 13000000...
+Obstacle:	 49615 (74.00%)
+Timeouts:	 16965 (25.00%)
+==========
+
+==========
+print number 13020000...
+Obstacle:	 49661 (74.00%)
+Timeouts:	 16979 (25.00%)
+==========
+
+==========
+print number 13040000...
+Obstacle:	 49715 (74.00%)
+Timeouts:	 16994 (25.00%)
+==========
+
+==========
+print number 13060000...
+Obstacle:	 49767 (74.00%)
+Timeouts:	 17011 (25.00%)
+==========
+
+==========
+print number 13080000...
+Obstacle:	 49799 (74.00%)
+Timeouts:	 17032 (25.00%)
+==========
+
+==========
+print number 13100000...
+Obstacle:	 49849 (74.00%)
+Timeouts:	 17056 (25.00%)
+==========
+
+==========
+print number 13120000...
+Obstacle:	 49889 (74.00%)
+Timeouts:	 17076 (25.00%)
+==========
+
+==========
+print number 13140000...
+Obstacle:	 49951 (74.00%)
+Timeouts:	 17094 (25.00%)
+==========
+
+==========
+print number 13160000...
+Obstacle:	 49998 (74.00%)
+Timeouts:	 17116 (25.00%)
+==========
+
+==========
+print number 13180000...
+Obstacle:	 50045 (74.00%)
+Timeouts:	 17131 (25.00%)
+==========
+
+==========
+print number 13200000...
+Obstacle:	 50097 (74.00%)
+Timeouts:	 17150 (25.00%)
+==========
+
+==========
+print number 13220000...
+Obstacle:	 50152 (74.00%)
+Timeouts:	 17173 (25.00%)
+==========
+
+==========
+print number 13240000...
+Obstacle:	 50200 (74.00%)
+Timeouts:	 17197 (25.00%)
+==========
+
+==========
+print number 13260000...
+Obstacle:	 50245 (74.00%)
+Timeouts:	 17217 (25.00%)
+==========
+
+==========
+print number 13280000...
+Obstacle:	 50298 (74.00%)
+Timeouts:	 17237 (25.00%)
+==========
+
+==========
+print number 13300000...
+Obstacle:	 50355 (74.00%)
+Timeouts:	 17256 (25.00%)
+==========
+
+==========
+print number 13320000...
+Obstacle:	 50400 (74.00%)
+Timeouts:	 17278 (25.00%)
+==========
+
+==========
+print number 13340000...
+Obstacle:	 50456 (74.00%)
+Timeouts:	 17298 (25.00%)
+==========
+
+==========
+print number 13360000...
+Obstacle:	 50506 (74.00%)
+Timeouts:	 17317 (25.00%)
+==========
+
+==========
+print number 13380000...
+Obstacle:	 50558 (74.00%)
+Timeouts:	 17337 (25.00%)
+==========
+
+==========
+print number 13400000...
+Obstacle:	 50604 (74.00%)
+Timeouts:	 17358 (25.00%)
+==========
+
+==========
+print number 13420000...
+Obstacle:	 50646 (74.00%)
+Timeouts:	 17377 (25.00%)
+==========
+
+==========
+print number 13440000...
+Obstacle:	 50696 (74.00%)
+Timeouts:	 17394 (25.00%)
+==========
+
+==========
+print number 13460000...
+Obstacle:	 50761 (74.00%)
+Timeouts:	 17413 (25.00%)
+==========
+
+==========
+print number 13480000...
+Obstacle:	 50818 (74.00%)
+Timeouts:	 17426 (25.00%)
+==========
+
+==========
+print number 13500000...
+Obstacle:	 50878 (74.00%)
+Timeouts:	 17443 (25.00%)
+==========
+
+==========
+print number 13520000...
+Obstacle:	 50915 (74.00%)
+Timeouts:	 17465 (25.00%)
+==========
+
+==========
+print number 13540000...
+Obstacle:	 50982 (74.00%)
+Timeouts:	 17483 (25.00%)
+==========
+
+==========
+print number 13560000...
+Obstacle:	 51023 (74.00%)
+Timeouts:	 17503 (25.00%)
+==========
+
+==========
+print number 13580000...
+Obstacle:	 51079 (74.00%)
+Timeouts:	 17518 (25.00%)
+==========
+
+==========
+print number 13600000...
+Obstacle:	 51137 (74.00%)
+Timeouts:	 17534 (25.00%)
+==========
+
+==========
+print number 13620000...
+Obstacle:	 51183 (74.00%)
+Timeouts:	 17554 (25.00%)
+==========
+
+==========
+print number 13640000...
+Obstacle:	 51231 (74.00%)
+Timeouts:	 17570 (25.00%)
+==========
+
+==========
+print number 13660000...
+Obstacle:	 51284 (74.00%)
+Timeouts:	 17591 (25.00%)
+==========
+
+==========
+print number 13680000...
+Obstacle:	 51338 (74.00%)
+Timeouts:	 17608 (25.00%)
+==========
+
+==========
+print number 13700000...
+Obstacle:	 51387 (74.00%)
+Timeouts:	 17631 (25.00%)
+==========
+
+==========
+print number 13720000...
+Obstacle:	 51430 (74.00%)
+Timeouts:	 17652 (25.00%)
+==========
+
+==========
+print number 13740000...
+Obstacle:	 51466 (74.00%)
+Timeouts:	 17676 (25.00%)
+==========
+
+==========
+print number 13760000...
+Obstacle:	 51530 (74.00%)
+Timeouts:	 17695 (25.00%)
+==========
+
+==========
+print number 13780000...
+Obstacle:	 51585 (74.00%)
+Timeouts:	 17711 (25.00%)
+==========
+
+==========
+print number 13800000...
+Obstacle:	 51633 (74.00%)
+Timeouts:	 17729 (25.00%)
+==========
+
+==========
+print number 13820000...
+Obstacle:	 51691 (74.00%)
+Timeouts:	 17748 (25.00%)
+==========
+
+==========
+print number 13840000...
+Obstacle:	 51748 (74.00%)
+Timeouts:	 17766 (25.00%)
+==========
+
+==========
+print number 13860000...
+Obstacle:	 51810 (74.00%)
+Timeouts:	 17785 (25.00%)
+==========
+
+==========
+print number 13880000...
+Obstacle:	 51868 (74.00%)
+Timeouts:	 17805 (25.00%)
+==========
+
+==========
+print number 13900000...
+Obstacle:	 51913 (74.00%)
+Timeouts:	 17826 (25.00%)
+==========
+
+==========
+print number 13920000...
+Obstacle:	 51945 (74.00%)
+Timeouts:	 17842 (25.00%)
+==========
+
+==========
+print number 13940000...
+Obstacle:	 51997 (74.00%)
+Timeouts:	 17859 (25.00%)
+==========
+
+==========
+print number 13960000...
+Obstacle:	 52035 (74.00%)
+Timeouts:	 17878 (25.00%)
+==========
+
+==========
+print number 13980000...
+Obstacle:	 52090 (74.00%)
+Timeouts:	 17899 (25.00%)
+==========
+
+==========
+print number 14000000...
+Obstacle:	 52156 (74.00%)
+Timeouts:	 17916 (25.00%)
+==========
+
+==========
+print number 14020000...
+Obstacle:	 52215 (74.00%)
+Timeouts:	 17935 (25.00%)
+==========
+
+==========
+print number 14040000...
+Obstacle:	 52267 (74.00%)
+Timeouts:	 17951 (25.00%)
+==========
+
+==========
+print number 14060000...
+Obstacle:	 52308 (74.00%)
+Timeouts:	 17973 (25.00%)
+==========
+
+==========
+print number 14080000...
+Obstacle:	 52365 (74.00%)
+Timeouts:	 17994 (25.00%)
+==========
+
+==========
+print number 14100000...
+Obstacle:	 52410 (74.00%)
+Timeouts:	 18010 (25.00%)
+==========
+
+==========
+print number 14120000...
+Obstacle:	 52469 (74.00%)
+Timeouts:	 18029 (25.00%)
+==========
+
+==========
+print number 14140000...
+Obstacle:	 52520 (74.00%)
+Timeouts:	 18049 (25.00%)
+==========
+
+==========
+print number 14160000...
+Obstacle:	 52584 (74.00%)
+Timeouts:	 18066 (25.00%)
+==========
+
+==========
+print number 14180000...
+Obstacle:	 52642 (74.00%)
+Timeouts:	 18081 (25.00%)
+==========
+
+==========
+print number 14200000...
+Obstacle:	 52692 (74.00%)
+Timeouts:	 18097 (25.00%)
+==========
+
+==========
+print number 14220000...
+Obstacle:	 52742 (74.00%)
+Timeouts:	 18120 (25.00%)
+==========
+
+==========
+print number 14240000...
+Obstacle:	 52797 (74.00%)
+Timeouts:	 18140 (25.00%)
+==========
+
+==========
+print number 14260000...
+Obstacle:	 52842 (74.00%)
+Timeouts:	 18162 (25.00%)
+==========
+
+==========
+print number 14280000...
+Obstacle:	 52887 (74.00%)
+Timeouts:	 18184 (25.00%)
+==========
+
+==========
+print number 14300000...
+Obstacle:	 52944 (74.00%)
+Timeouts:	 18201 (25.00%)
+==========
+
+==========
+print number 14320000...
+Obstacle:	 53001 (74.00%)
+Timeouts:	 18218 (25.00%)
+==========
+
+==========
+print number 14340000...
+Obstacle:	 53041 (74.00%)
+Timeouts:	 18238 (25.00%)
+==========
+
+==========
+print number 14360000...
+Obstacle:	 53090 (74.00%)
+Timeouts:	 18256 (25.00%)
+==========
+
+==========
+print number 14380000...
+Obstacle:	 53130 (74.00%)
+Timeouts:	 18277 (25.00%)
+==========
+
+==========
+print number 14400000...
+Obstacle:	 53195 (74.00%)
+Timeouts:	 18290 (25.00%)
+==========
+
+==========
+print number 14420000...
+Obstacle:	 53232 (74.00%)
+Timeouts:	 18314 (25.00%)
+==========
+
+==========
+print number 14440000...
+Obstacle:	 53274 (74.00%)
+Timeouts:	 18334 (25.00%)
+==========
+
+==========
+print number 14460000...
+Obstacle:	 53319 (74.00%)
+Timeouts:	 18355 (25.00%)
+==========
+
+==========
+print number 14480000...
+Obstacle:	 53373 (74.00%)
+Timeouts:	 18373 (25.00%)
+==========
+
+==========
+print number 14500000...
+Obstacle:	 53437 (74.00%)
+Timeouts:	 18392 (25.00%)
+==========
+
+==========
+print number 14520000...
+Obstacle:	 53491 (74.00%)
+Timeouts:	 18409 (25.00%)
+==========
+
+==========
+print number 14540000...
+Obstacle:	 53543 (74.00%)
+Timeouts:	 18424 (25.00%)
+==========
+
+==========
+print number 14560000...
+Obstacle:	 53587 (74.00%)
+Timeouts:	 18439 (25.00%)
+==========
+
+==========
+print number 14580000...
+Obstacle:	 53640 (74.00%)
+Timeouts:	 18460 (25.00%)
+==========
+
+==========
+print number 14600000...
+Obstacle:	 53687 (74.00%)
+Timeouts:	 18481 (25.00%)
+==========
+
+==========
+print number 14620000...
+Obstacle:	 53733 (74.00%)
+Timeouts:	 18502 (25.00%)
+==========
+
+==========
+print number 14640000...
+Obstacle:	 53783 (74.00%)
+Timeouts:	 18517 (25.00%)
+==========
+
+==========
+print number 14660000...
+Obstacle:	 53832 (74.00%)
+Timeouts:	 18538 (25.00%)
+==========
+
+==========
+print number 14680000...
+Obstacle:	 53906 (74.00%)
+Timeouts:	 18555 (25.00%)
+==========
+
+==========
+print number 14700000...
+Obstacle:	 53948 (74.00%)
+Timeouts:	 18575 (25.00%)
+==========
+
+==========
+print number 14720000...
+Obstacle:	 53996 (74.00%)
+Timeouts:	 18591 (25.00%)
+==========
+
+==========
+print number 14740000...
+Obstacle:	 54052 (74.00%)
+Timeouts:	 18605 (25.00%)
+==========
+
+==========
+print number 14760000...
+Obstacle:	 54096 (74.00%)
+Timeouts:	 18627 (25.00%)
+==========
+
+==========
+print number 14780000...
+Obstacle:	 54164 (74.00%)
+Timeouts:	 18645 (25.00%)
+==========
+
+==========
+print number 14800000...
+Obstacle:	 54210 (74.00%)
+Timeouts:	 18665 (25.00%)
+==========
+
+==========
+print number 14820000...
+Obstacle:	 54256 (74.00%)
+Timeouts:	 18683 (25.00%)
+==========
+
+==========
+print number 14840000...
+Obstacle:	 54318 (74.00%)
+Timeouts:	 18697 (25.00%)
+==========
+
+==========
+print number 14860000...
+Obstacle:	 54358 (74.00%)
+Timeouts:	 18717 (25.00%)
+==========
+
+==========
+print number 14880000...
+Obstacle:	 54413 (74.00%)
+Timeouts:	 18728 (25.00%)
+==========
+
+==========
+print number 14900000...
+Obstacle:	 54467 (74.00%)
+Timeouts:	 18749 (25.00%)
+==========
+
+==========
+print number 14920000...
+Obstacle:	 54506 (74.00%)
+Timeouts:	 18770 (25.00%)
+==========
+
+==========
+print number 14940000...
+Obstacle:	 54545 (74.00%)
+Timeouts:	 18788 (25.00%)
+==========
+
+==========
+print number 14960000...
+Obstacle:	 54597 (74.00%)
+Timeouts:	 18808 (25.00%)
+==========
+
+==========
+print number 14980000...
+Obstacle:	 54674 (74.00%)
+Timeouts:	 18828 (25.00%)
+==========
+
+==========
+print number 15000000...
+Obstacle:	 54721 (74.00%)
+Timeouts:	 18844 (25.00%)
+==========
+
+==========
+print number 15020000...
+Obstacle:	 54779 (74.00%)
+Timeouts:	 18864 (25.00%)
+==========
+
+==========
+print number 15040000...
+Obstacle:	 54827 (74.00%)
+Timeouts:	 18883 (25.00%)
+==========
+
+==========
+print number 15060000...
+Obstacle:	 54876 (74.00%)
+Timeouts:	 18901 (25.00%)
+==========
+
+==========
+print number 15080000...
+Obstacle:	 54922 (74.00%)
+Timeouts:	 18917 (25.00%)
+==========
+
+==========
+print number 15100000...
+Obstacle:	 54979 (74.00%)
+Timeouts:	 18938 (25.00%)
+==========
+
+==========
+print number 15120000...
+Obstacle:	 55025 (74.00%)
+Timeouts:	 18953 (25.00%)
+==========
+
+==========
+print number 15140000...
+Obstacle:	 55078 (74.00%)
+Timeouts:	 18977 (25.00%)
+==========
+
+==========
+print number 15160000...
+Obstacle:	 55143 (74.00%)
+Timeouts:	 18994 (25.00%)
+==========
+
+==========
+print number 15180000...
+Obstacle:	 55203 (74.00%)
+Timeouts:	 19013 (25.00%)
+==========
+
+==========
+print number 15200000...
+Obstacle:	 55247 (74.00%)
+Timeouts:	 19029 (25.00%)
+==========
+
+==========
+print number 15220000...
+Obstacle:	 55285 (74.00%)
+Timeouts:	 19050 (25.00%)
+==========
+
+==========
+print number 15240000...
+Obstacle:	 55317 (74.00%)
+Timeouts:	 19070 (25.00%)
+==========
+
+==========
+print number 15260000...
+Obstacle:	 55372 (74.00%)
+Timeouts:	 19089 (25.00%)
+==========
+
+==========
+print number 15280000...
+Obstacle:	 55422 (74.00%)
+Timeouts:	 19109 (25.00%)
+==========
+
+==========
+print number 15300000...
+Obstacle:	 55474 (74.00%)
+Timeouts:	 19127 (25.00%)
+==========
+
+==========
+print number 15320000...
+Obstacle:	 55507 (74.00%)
+Timeouts:	 19150 (25.00%)
+==========
+
+==========
+print number 15340000...
+Obstacle:	 55552 (74.00%)
+Timeouts:	 19173 (25.00%)
+==========
+
+==========
+print number 15360000...
+Obstacle:	 55613 (74.00%)
+Timeouts:	 19188 (25.00%)
+==========
+
+==========
+print number 15380000...
+Obstacle:	 55650 (74.00%)
+Timeouts:	 19205 (25.00%)
+==========
+
+==========
+print number 15400000...
+Obstacle:	 55694 (74.00%)
+Timeouts:	 19222 (25.00%)
+==========
+
+==========
+print number 15420000...
+Obstacle:	 55747 (74.00%)
+Timeouts:	 19245 (25.00%)
+==========
+
+==========
+print number 15440000...
+Obstacle:	 55800 (74.00%)
+Timeouts:	 19267 (25.00%)
+==========
+
+==========
+print number 15460000...
+Obstacle:	 55865 (74.00%)
+Timeouts:	 19281 (25.00%)
+==========
+
+==========
+print number 15480000...
+Obstacle:	 55904 (74.00%)
+Timeouts:	 19303 (25.00%)
+==========
+
+==========
+print number 15500000...
+Obstacle:	 55979 (74.00%)
+Timeouts:	 19316 (25.00%)
+==========
+
+==========
+print number 15520000...
+Obstacle:	 56029 (74.00%)
+Timeouts:	 19337 (25.00%)
+==========
+
+==========
+print number 15540000...
+Obstacle:	 56049 (74.00%)
+Timeouts:	 19360 (25.00%)
+==========
+
+==========
+print number 15560000...
+Obstacle:	 56084 (74.00%)
+Timeouts:	 19382 (25.00%)
+==========
+
+==========
+print number 15580000...
+Obstacle:	 56123 (74.00%)
+Timeouts:	 19400 (25.00%)
+==========
+
+==========
+print number 15600000...
+Obstacle:	 56162 (74.00%)
+Timeouts:	 19423 (25.00%)
+==========
+
+==========
+print number 15620000...
+Obstacle:	 56209 (74.00%)
+Timeouts:	 19441 (25.00%)
+==========
+
+==========
+print number 15640000...
+Obstacle:	 56251 (74.00%)
+Timeouts:	 19464 (25.00%)
+==========
+
+==========
+print number 15660000...
+Obstacle:	 56312 (74.00%)
+Timeouts:	 19478 (25.00%)
+==========
+
+==========
+print number 15680000...
+Obstacle:	 56353 (74.00%)
+Timeouts:	 19500 (25.00%)
+==========
+
+==========
+print number 15700000...
+Obstacle:	 56383 (74.00%)
+Timeouts:	 19524 (25.00%)
+==========
+
+==========
+print number 15720000...
+Obstacle:	 56429 (74.00%)
+Timeouts:	 19544 (25.00%)
+==========
+
+==========
+print number 15740000...
+Obstacle:	 56471 (74.00%)
+Timeouts:	 19563 (25.00%)
+==========
+
+==========
+print number 15760000...
+Obstacle:	 56508 (74.00%)
+Timeouts:	 19582 (25.00%)
+==========
+
+==========
+print number 15780000...
+Obstacle:	 56557 (74.00%)
+Timeouts:	 19604 (25.00%)
+==========
+
+==========
+print number 15800000...
+Obstacle:	 56611 (74.00%)
+Timeouts:	 19622 (25.00%)
+==========
+
+==========
+print number 15820000...
+Obstacle:	 56664 (74.00%)
+Timeouts:	 19638 (25.00%)
+==========
+
+==========
+print number 15840000...
+Obstacle:	 56707 (74.00%)
+Timeouts:	 19655 (25.00%)
+==========
+
+==========
+print number 15860000...
+Obstacle:	 56763 (74.00%)
+Timeouts:	 19671 (25.00%)
+==========
+
+==========
+print number 15880000...
+Obstacle:	 56830 (74.00%)
+Timeouts:	 19688 (25.00%)
+==========
+
+==========
+print number 15900000...
+Obstacle:	 56865 (74.00%)
+Timeouts:	 19704 (25.00%)
+==========
+
+==========
+print number 15920000...
+Obstacle:	 56920 (74.00%)
+Timeouts:	 19724 (25.00%)
+==========
+
+==========
+print number 15940000...
+Obstacle:	 56972 (74.00%)
+Timeouts:	 19745 (25.00%)
+==========
+
+==========
+print number 15960000...
+Obstacle:	 57019 (74.00%)
+Timeouts:	 19764 (25.00%)
+==========
+
+==========
+print number 15980000...
+Obstacle:	 57064 (74.00%)
+Timeouts:	 19781 (25.00%)
+==========
+
+==========
+print number 16000000...
+Obstacle:	 57100 (74.00%)
+Timeouts:	 19801 (25.00%)
+==========
+
+==========
+print number 16020000...
+Obstacle:	 57141 (74.00%)
+Timeouts:	 19821 (25.00%)
+==========
+
+==========
+print number 16040000...
+Obstacle:	 57199 (74.00%)
+Timeouts:	 19838 (25.00%)
+==========
+
